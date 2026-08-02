@@ -6,6 +6,16 @@
 
 ![写作](https://img.shields.io/badge/写作-Writer-ff69b4) ![旅行](https://img.shields.io/badge/旅行-Traveler-00bcd4) ![双语](https://img.shields.io/badge/双语-Bilingual-009688) ![AI阅读](https://img.shields.io/badge/AI阅读-Reading-ff9800) ![品牌叙事](https://img.shields.io/badge/品牌叙事-Brand-3f51b5) ![创作者](https://img.shields.io/badge/创作者-Creator-4caf50)
 
+## ✨ 精选 · Start Here
+
+> 只想看几样？从这开始：
+
+- 📚 **[AI 高质量阅读库](https://github.com/gengyueworks/wanderer-picks)** — 三套公开精选（旅行 / 科技 / 饮食），每天从信息洪流里挑出真值得读的
+- ✍️ **[Travel-Stories](https://github.com/gengyueworks/Travel-Stories)** — 环游世界写下的原创旅行故事与摄影（中英双语）
+- 🎙️ **[yuetalks](https://github.com/gengyueworks/yuetalks)** — 随笔与人物访谈专栏
+- 📖 **[Yue-Reading](https://github.com/gengyueworks/Yue-Reading)** — 阅读笔记与书评（双语）
+- 🔒 **断舍离写信** — 我的核心业务之一，打磨中
+
 **这里分三层看我的工作**：① 主作品（我真正在做的事）置顶；② 产品与引流版居中；③ 实验合集是"灵感雷达"每天扫出来的尝试，慢慢养。**很多主作品还在私有打磨中，公开后会移到 ①。**
 
 ---
