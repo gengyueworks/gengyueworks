@@ -19,6 +19,12 @@
 - [Travel-Guides](https://github.com/gengyueworks/Travel-Guides) — 目的地深度攻略与路线
 - [ZXMOTO-Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — 中国机车制造报道
 
+### AI 高质量阅读库（主业务 · 公开精选）
+每天从海量信息里挑出真正值得读的高质量内容，按主题做成精选合集——这是我的核心业务之一。
+- [wanderer-picks](https://github.com/gengyueworks/wanderer-picks) — 旅行主题高质量阅读精选
+- [tech-picks](https://github.com/gengyueworks/tech-picks) — 科技主题高质量阅读精选
+- [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — 美食 / 饮食主题高质量阅读精选
+
 ### 课程（公开框架预览）
 - [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course)
 
@@ -46,7 +52,6 @@
 
 > 用"灵感雷达"每天扫可策展的主题，挑有意思的建仓。**实验性质，慢慢养，跑出苗头再重点推**——所以放在最次要的位置。
 
-- [wanderer-picks](https://github.com/gengyueworks/wanderer-picks) · [tech-picks](https://github.com/gengyueworks/tech-picks) · [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff)（公开精选）
 - 🔒 nasa-stars-collection（NASA 星辰星云）· loneliest-places-on-earth（地球最孤独地点）· cinematic-travel-locations（电影取景地）· awesome-indie-press（全球独立杂志）· non-coder-builders（非程序员搞钱）· science-3000-industrial（科学三千年·工业篇）
 
 ---
