@@ -13,7 +13,7 @@
 - 🏡 **[Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays)** — 小众设计民宿精选
 - 🌐 **个人网站**（即将上线）— 写作 / 旅行 / 课程的官方主页，建设中
 - 🎙️ **[yuetalks](https://github.com/gengyueworks/yuetalks)** — 随笔与人物访谈专栏
-- 📚 **[AI 高质量阅读库](https://github.com/gengyueworks/wanderer-picks)** — 三套公开精选（旅行 / 科技 / 饮食），每天从信息洪流里挑出真值得读的
+- 📚 **[AI 高质量阅读库](https://github.com/gengyueworks/wanderer-picks)** — 三套公开精选（旅行 / 科技 / 精神食粮），每天从信息洪流里挑出真值得读的
 
 **这里分三层看我的工作**：① 主作品（我真正在做的事）置顶；② 产品与工具居中；③ 实验合集是"灵感雷达"每天扫出来的尝试，慢慢养。**很多主作品还在私有打磨中，公开后会移到 ①。**
 
@@ -40,7 +40,7 @@
 每天从海量信息里挑出真正值得读的高质量内容，按主题做成精选合集——这是我的核心业务之一。
 - [wanderer-picks](https://github.com/gengyueworks/wanderer-picks) — 旅行主题高质量阅读精选
 - [tech-picks](https://github.com/gengyueworks/tech-picks) — 科技主题高质量阅读精选
-- [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — 美食 / 饮食主题高质量阅读精选
+- [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — 精神食粮主题高质量阅读精选（"吃点好的"＝读好的，不是美食）
 
 ### 课程（公开框架预览）
 - [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — 阅读课程
