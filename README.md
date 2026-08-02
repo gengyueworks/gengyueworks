@@ -3,18 +3,7 @@
 </p>
 
 <h1 align="center">悦 · gengyueworks 👋</h1>
-<p align="center"><b>写作者 / 旅行者 / 创作者</b>　·　用特稿写作做品牌叙事</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-%E5%86%99%E4%BD%9C-ff69b4?style=flat-square" alt="写作"/>
-  <img src="https://img.shields.io/badge/-%E6%97%85%E8%A1%8C-00bcd4?style=flat-square" alt="旅行"/>
-  <img src="https://img.shields.io/badge/-%E5%8F%8C%E8%AF%AD-009688?style=flat-square" alt="双语"/>
-  <img src="https://img.shields.io/badge/-AI%E9%98%85%E8%AF%BB-ff9800?style=flat-square" alt="AI阅读"/>
-  <img src="https://img.shields.io/badge/-%E5%93%81%E7%89%8C%E5%8F%99%E4%BA%8B-3f51b5?style=flat-square" alt="品牌叙事"/>
-  <img src="https://img.shields.io/badge/-%E5%88%9B%E4%BD%9C%E8%80%85-4caf50?style=flat-square" alt="创作者"/>
-</p>
-
-> 写作者 / 旅行者 / 创作者。用特稿写作的稀缺方式做品牌叙事，也在写自己的专栏、做课程，外加一点点实验性的策展合集。
+<p align="center"><b>写作者 / 旅行者 / 创作者</b> · 用特稿写作做品牌叙事</p>
 
 ## ✨ 精选 · Start Here
 
