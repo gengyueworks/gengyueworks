@@ -89,8 +89,6 @@
 
 ## 📡 Connect
 
-## 📡 Connect
-
 <p align="center">
   <a href="https://x.com/your_handle"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.xiaohongshu.com/user/profile/your_id"><img src="https://img.shields.io/badge/-小红书-FF2442?style=flat-square" alt="小红书"/></a>
