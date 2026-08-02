@@ -90,11 +90,11 @@
 ## 📡 Connect
 
 <p align="center">
-  <a href="https://x.com/your_handle"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.xiaohongshu.com/user/profile/your_id"><img src="https://img.shields.io/badge/-小红书-FF2442?style=flat-square" alt="小红书"/></a>
-  <a href="https://your-newsletter.com"><img src="https://img.shields.io/badge/-Newsletter-00A98F?style=flat-square&logo=mailchimp&logoColor=white" alt="Newsletter"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=wordpress&logoColor=white" alt="Blog"/></a>
+  <a href="https://x.com/your_handle"><img src="https://img.shields.io/badge/-X-181717?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.xiaohongshu.com/user/profile/your_id"><img src="https://img.shields.io/badge/-小红书-181717?style=flat-square" alt="小红书"/></a>
+  <a href="https://your-newsletter.com"><img src="https://img.shields.io/badge/-Newsletter-181717?style=flat-square&logo=mailchimp&logoColor=white" alt="Newsletter"/></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logo=wordpress&logoColor=white" alt="Blog"/></a>
   <a href="https://github.com/gengyueworks"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
