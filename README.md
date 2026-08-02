@@ -18,7 +18,7 @@
 **这里分三层看我的工作**：① 主作品（我真正在做的事）置顶；② 产品与工具居中；③ 实验合集是"灵感雷达"每天扫出来的尝试，慢慢养。**很多主作品还在私有打磨中，公开后会移到 ①。**
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0366B5/gengyueworks" alt="过去一年 GitHub 贡献图"/>
+  <img src="https://ghchart.rshah.org/gengyueworks" alt="过去一年 GitHub 贡献图"/>
 </p>
 
 ---
