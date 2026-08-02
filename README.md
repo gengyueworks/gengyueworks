@@ -26,7 +26,7 @@
 - 🎙️ **[yuetalks](https://github.com/gengyueworks/yuetalks)** — 随笔与人物访谈专栏
 - 📚 **[AI 高质量阅读库](https://github.com/gengyueworks/wanderer-picks)** — 三套公开精选（旅行 / 科技 / 饮食），每天从信息洪流里挑出真值得读的
 
-**这里分三层看我的工作**：① 主作品（我真正在做的事）置顶；② 产品与引流版居中；③ 实验合集是"灵感雷达"每天扫出来的尝试，慢慢养。**很多主作品还在私有打磨中，公开后会移到 ①。**
+**这里分三层看我的工作**：① 主作品（我真正在做的事）置顶；② 产品与工具居中；③ 实验合集是"灵感雷达"每天扫出来的尝试，慢慢养。**很多主作品还在私有打磨中，公开后会移到 ①。**
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-## ② 产品 / 引流版 / 工具
+## ② 产品 / 工具
 
 - [invest-masters](https://github.com/gengyueworks/invest-masters) — 投资大师思想库（公开试读版）
 - [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — 面对网暴（公开试读版）
