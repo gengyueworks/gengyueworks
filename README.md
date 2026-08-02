@@ -2,6 +2,10 @@
 
 > 写作者 / 旅行者 / 创作者。用特稿写作的稀缺方式做品牌叙事，也在写自己的专栏、做课程，外加一点点实验性的策展合集。
 
+![visitors](https://visitor-badge.live/badge?page_id=gengyueworks.gengyueworks)
+
+![写作](https://img.shields.io/badge/写作-Writer-ff69b4) ![旅行](https://img.shields.io/badge/旅行-Traveler-00bcd4) ![双语](https://img.shields.io/badge/双语-Bilingual-009688) ![AI阅读](https://img.shields.io/badge/AI阅读-Reading-ff9800) ![品牌叙事](https://img.shields.io/badge/品牌叙事-Brand-3f51b5) ![创作者](https://img.shields.io/badge/创作者-Creator-4caf50)
+
 **这里分三层看我的工作**：① 主作品（我真正在做的事）置顶；② 产品与引流版居中；③ 实验合集是"灵感雷达"每天扫出来的尝试，慢慢养。**很多主作品还在私有打磨中，公开后会移到 ①。**
 
 ---
