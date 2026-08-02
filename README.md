@@ -83,22 +83,7 @@
 
 ---
 
-## ✍️ 最近在忙
-
-- 📚 每天更新 **AI 高质量阅读库**（旅行 / 科技 / 饮食三套公开精选），从信息洪流里挑真值得读的
-- ✍️ 写《悦·专栏》原创旅行故事与人物访谈（中英双语），主作品陆续从私有打磨转到公开
-- 🔒 打磨核心业务 **断舍离写信**，以及爱自己 / AI 写作等课程框架
-- 🧪 用"灵感雷达"每天扫可策展主题，慢慢养实验合集
-
-## 📰 最新文章
-
-<!-- BLOG-POST-LIST:START -->
-- [AI 高质量阅读库 · 旅行精选](https://github.com/gengyueworks/wanderer-picks) — 每天从信息洪流里挑出真值得读的
-- [Travel-Stories](https://github.com/gengyueworks/Travel-Stories) — 环游世界写下的原创故事与摄影
-- [yuetalks](https://github.com/gengyueworks/yuetalks) — 随笔与人物访谈专栏
-<!-- BLOG-POST-LIST:END -->
-
----
+## 📡 Connect
 
 ## 📡 Connect
 
