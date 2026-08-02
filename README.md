@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">悦 · gengyueworks 👋</h1>
-<p align="center"><b>写作者 / 旅行者 / 创作者</b></p>
+<p align="center"><b>写作者 / 旅行者 / 创作者</b>　·　用特稿写作做品牌叙事</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/写作-Writer-ff69b4" alt="写作"/>
-  <img src="https://img.shields.io/badge/旅行-Traveler-00bcd4" alt="旅行"/>
-  <img src="https://img.shields.io/badge/双语-Bilingual-009688" alt="双语"/>
-  <img src="https://img.shields.io/badge/AI阅读-Reading-ff9800" alt="AI阅读"/>
-  <img src="https://img.shields.io/badge/品牌叙事-Brand-3f51b5" alt="品牌叙事"/>
-  <img src="https://img.shields.io/badge/创作者-Creator-4caf50" alt="创作者"/>
+  <img src="https://img.shields.io/badge/-写作-Writer-ff69b4?style=flat-square" alt="写作"/>
+  <img src="https://img.shields.io/badge/-旅行-Traveler-00bcd4?style=flat-square" alt="旅行"/>
+  <img src="https://img.shields.io/badge/-双语-Bilingual-009688?style=flat-square" alt="双语"/>
+  <img src="https://img.shields.io/badge/-AI阅读-Reading-ff9800?style=flat-square" alt="AI阅读"/>
+  <img src="https://img.shields.io/badge/-品牌叙事-Brand-3f51b5?style=flat-square" alt="品牌叙事"/>
+  <img src="https://img.shields.io/badge/-创作者-Creator-4caf50?style=flat-square" alt="创作者"/>
 </p>
 
 > 写作者 / 旅行者 / 创作者。用特稿写作的稀缺方式做品牌叙事，也在写自己的专栏、做课程，外加一点点实验性的策展合集。
@@ -102,11 +102,34 @@
 
 ---
 
+## ✍️ 最近在忙
+
+- 📚 每天更新 **AI 高质量阅读库**（旅行 / 科技 / 饮食三套公开精选），从信息洪流里挑真值得读的
+- ✍️ 写《悦·专栏》原创旅行故事与人物访谈（中英双语），主作品陆续从私有打磨转到公开
+- 🔒 打磨核心业务 **断舍离写信**，以及爱自己 / AI 写作等课程框架
+- 🧪 用"灵感雷达"每天扫可策展主题，慢慢养实验合集
+
+## 📰 最新文章
+
+<!-- BLOG-POST-LIST:START -->
+- [AI 高质量阅读库 · 旅行精选](https://github.com/gengyueworks/wanderer-picks) — 每天从信息洪流里挑出真值得读的
+- [Travel-Stories](https://github.com/gengyueworks/Travel-Stories) — 环游世界写下的原创故事与摄影
+- [yuetalks](https://github.com/gengyueworks/yuetalks) — 随笔与人物访谈专栏
+<!-- BLOG-POST-LIST:END -->
+
+> 想让这里**自动同步**你博客/专栏的新文章？把你的 RSS 链接发我，我接一个 GitHub Action 定时拉取更新（就是 Peter 主页那种效果）。
+
+---
+
+## 📡 Connect
+
 <p align="center">
-  <a href="https://github.com/gengyueworks?tab=followers"><img src="https://img.shields.io/github/followers/gengyueworks?label=Follow&style=social" alt="follow"/></a>
-  <!-- 把下面两个链接换成你的真实邮箱 / X 账号，再删掉这行注释 -->
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://x.com/your_handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
+  <a href="https://x.com/your_handle"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.xiaohongshu.com/user/profile/your_id"><img src="https://img.shields.io/badge/-小红书-FF2442?style=flat-square" alt="小红书"/></a>
+  <a href="https://your-newsletter.com"><img src="https://img.shields.io/badge/-Newsletter-00A98F?style=flat-square&logo=mailchimp&logoColor=white" alt="Newsletter"/></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=wordpress&logoColor=white" alt="Blog"/></a>
+  <a href="https://github.com/gengyueworks"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-📡 在 X 上找我：@（待填）　|　✉️ 联系：（待填）
+<!-- 把上面 your_handle / your_id / your-newsletter / you@example.com / your-blog 换成你的真实账号，再删掉这行注释 -->
