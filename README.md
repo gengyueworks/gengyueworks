@@ -30,21 +30,6 @@
 
 ---
 
-## 📊 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gengyueworks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gengyueworks&theme=radical&column=4&margin-w=15&no-frame=true&no-bg=true" alt="trophy"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gengyueworks&theme=tokyo-night&hide_border=true&radius=16" alt="activity"/>
-</p>
-
----
 
 ## ① 主作品 · 原创专栏 / 课程 / 核心业务
 
