@@ -24,7 +24,7 @@
 ---
 
 
-## ① 主作品 · 原创专栏 / 课程 / 核心业务
+## ① 主作品 · 原创专栏 / 课程
 
 旅行故事、随笔、阅读课、导演与创作者专题、爱自己课程——这是我的脸面。
 
@@ -36,8 +36,8 @@
 - [Travel-Guides](https://github.com/gengyueworks/Travel-Guides) — 目的地深度攻略与路线
 - [ZXMOTO-Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — 中国机车制造报道
 
-### AI 高质量阅读库（主业务 · 公开精选）
-每天从海量信息里挑出真正值得读的高质量内容，按主题做成精选合集——这是我的核心业务之一。
+### AI 高质量阅读库（公开精选）
+每天从海量信息里挑出真正值得读的高质量内容，按主题做成精选合集。
 - [wanderer-picks](https://github.com/gengyueworks/wanderer-picks) — 旅行主题高质量阅读精选
 - [tech-picks](https://github.com/gengyueworks/tech-picks) — 科技主题高质量阅读精选
 - [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — 精神食粮主题高质量阅读精选（"吃点好的"＝读好的，不是美食）
@@ -52,7 +52,7 @@
 - **专题系列**：The-Creators（创作者）· The-Filmmakers（导演）· The-Luminous（闪光的人）· The-Photographers（摄影师）· The-Universe（宇宙→绘本）· The-Animals（动物→绘本）· The-Plants（植物视觉）· The-Music（古典乐随笔）· her-stories（女性故事）· AI-Art-Stories（AI 视觉艺术家存档）· me-and-ai（我与 AI）
 - **课程系列**：love-yourself-course（爱自己大课）· exercise-course（锻炼篇）· sugar-free-course（断糖饮食篇）· time-course（时间）· ai-writing-course（AI 写作）
 - **方法论库**：creativity-flow-bible（创造力心流）· writing-verification-method（写作查证法）· socratopia-learning-engineering（苏格拉底式学习工程）
-- **核心业务**：declutter-letters（断舍离写信）
+- declutter-letters（断舍离写信）
 
 ---
 
