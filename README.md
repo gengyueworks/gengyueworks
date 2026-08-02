@@ -44,6 +44,7 @@
 
 ### 课程（公开框架预览）
 - [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — 阅读课程
+- [invest-masters](https://github.com/gengyueworks/invest-masters) — 投资大师思想库（公开试读版）
 - [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course)
 
 ### 🔒 进行中 / 私有作品（打磨中，陆续公开）
@@ -58,10 +59,10 @@
 
 ## ② 产品 / 工具
 
-- [invest-masters](https://github.com/gengyueworks/invest-masters) — 投资大师思想库（公开试读版）
-- [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — 面对网暴（公开试读版）
-- [lobster-break](https://github.com/gengyueworks/lobster-break) — 反久坐小工具 · [lobster-diaries](https://github.com/gengyueworks/lobster-diaries) — AI 龙虾日记
 - [gym-exercise-guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 个健身动作双语图解库
+- [investing-booklist](https://github.com/gengyueworks/investing-booklist) — 投资理财书单
+- [lobster-break](https://github.com/gengyueworks/lobster-break) — 反久坐小工具 · [lobster-diaries](https://github.com/gengyueworks/lobster-diaries) — AI 龙虾日记
+- [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — 面对网暴（公开试读版）
 - 🔒 overseas-remote-jobs-hub（海外远程工作聚合）· ai-garden-3d-build（3D 植物花园）· only-one（时间盒专注工具）· creative-consulting（创意咨询）
 
 ---
