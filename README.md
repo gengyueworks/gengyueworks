@@ -38,7 +38,6 @@
 ### 公开专栏与故事
 - [Travel-Stories](https://github.com/gengyueworks/Travel-Stories) — 多年环游世界写下的原创故事与摄影
 - [yuetalks](https://github.com/gengyueworks/yuetalks) — 随笔与个人专栏
-- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — 阅读课原创随笔专栏
 - [Brand-Stories](https://github.com/gengyueworks/Brand-Stories) — 品牌合作特稿（叙事包装，不是广告）
 - [Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays) — 小众设计民宿精选
 - [Travel-Guides](https://github.com/gengyueworks/Travel-Guides) — 目的地深度攻略与路线
@@ -51,6 +50,7 @@
 - [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — 美食 / 饮食主题高质量阅读精选
 
 ### 课程（公开框架预览）
+- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — 阅读课程
 - [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course)
 
 ### 🔒 进行中 / 私有作品（打磨中，陆续公开）
