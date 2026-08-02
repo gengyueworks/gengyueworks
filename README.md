@@ -109,8 +109,6 @@
 - [yuetalks](https://github.com/gengyueworks/yuetalks) — 随笔与人物访谈专栏
 <!-- BLOG-POST-LIST:END -->
 
-> 想让这里**自动同步**你博客/专栏的新文章？把你的 RSS 链接发我，我接一个 GitHub Action 定时拉取更新（就是 Peter 主页那种效果）。
-
 ---
 
 ## 📡 Connect
