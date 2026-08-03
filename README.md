@@ -78,12 +78,6 @@
 
 ---
 
-## ④ 后台
-
-工作日志、AI Skills 集合、私密备份——不公开。
-
----
-
 ## 📡 Connect
 
 <p align="center">
