@@ -71,11 +71,7 @@
 
 > 用"灵感雷达"每天扫可策展的主题，挑有意思的建仓。实验性质，慢慢养，跑出苗头再重点推——所以放在最次要的位置。
 
-**🌱 灵感花园（公开策展）**
-- [nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection)（NASA 星辰星云）
-- [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth)（地球最孤独地点）
-- [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations)（电影取景地）
-- [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press)（全球独立杂志）
+**🌱 灵感花园（公开策展）**　[nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection)（NASA 星辰星云）· [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth)（地球最孤独地点）· [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations)（电影取景地）· [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press)（全球独立杂志）
 
 **🔒 暂未公开**
 - non-coder-builders（非程序员搞钱）· science-3000-industrial（科学三千年·工业篇）
