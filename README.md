@@ -2,98 +2,98 @@
   <img src="https://komarev.com/ghpvc/?username=gengyueworks&style=for-the-badge&color=0366B5&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<h1 align="center">悦 · gengyueworks 👋</h1>
-<p align="center"><b>写作者 / 旅行者 / 创作者</b> · 用特稿写作做品牌叙事</p>
+<h1 align="center">Yue · gengyueworks 👋</h1>
+<p align="center"><b>Writer / Traveler / Creator</b> · Brand storytelling through feature writing</p>
 
-## ✨ 精选 · Start Here
+## ✨ Featured · Start Here
 
-> 只想看几样？从这开始：
+> Only want to see a few? Start here:
 
-- ✍️ **[Travel-Stories](https://github.com/gengyueworks/Travel-Stories)** — 环游世界写下的原创旅行故事与摄影（中英双语）
-- 🏡 **[Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays)** — 小众设计民宿精选
-- 🌐 **个人网站**（即将上线）— 写作 / 旅行 / 课程的官方主页，建设中
-- 🎙️ **[yuetalks](https://github.com/gengyueworks/yuetalks)** — 随笔与人物访谈专栏
-- 📚 **[AI 高质量阅读库](https://github.com/gengyueworks/wanderer-picks)** — 三套公开精选（旅行 / 科技 / 精神食粮），每天从信息洪流里挑出真值得读的
+- ✍️ **[Travel-Stories](https://github.com/gengyueworks/Travel-Stories)** — Original travel stories & photography from around the world (bilingual)
+- 🏡 **[Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays)** — Curated boutique & design stays
+- 🌐 **Personal website** (coming soon) — Official home for writing / travel / courses, in progress
+- 🎙️ **[yuetalks](https://github.com/gengyueworks/yuetalks)** — Essays & people-interview column
+- 📚 **[AI Reading Library](https://github.com/gengyueworks/wanderer-picks)** — Three public picks (travel / tech / nourishing reads), the truly worth-reading distilled daily
 
-**这里分三层看我的工作**：① 主作品（我真正在做的事）置顶；② 产品与工具居中；③ 实验合集是"灵感雷达"每天扫出来的尝试，慢慢养。**很多主作品还在私有打磨中，公开后会移到 ①。**
+**My work in three layers**: ① Main work (what I'm actually building) on top; ② Products & tools in the middle; ③ Experiments are attempts surfaced daily by the "Inspiration Radar", nurtured slowly. **Many main works are still privately in progress, and will move to ① once public.**
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0366B5/gengyueworks" alt="过去一年 GitHub 贡献图"/>
+  <img src="https://ghchart.rshah.org/0366B5/gengyueworks" alt="GitHub contributions in the last year"/>
 </p>
 
 ---
 
 
-## ① 主作品 · 原创专栏 / 课程
+## ① Main Work · Original Columns / Courses
 
-旅行故事、随笔、阅读课、导演与创作者专题、爱自己课程——这是我的脸面。
+Travel stories, essays, reading courses, filmmaker & creator series, self-love courses — this is my face to the world.
 
-### 公开专栏与故事
-- [Travel-Stories](https://github.com/gengyueworks/Travel-Stories) — 多年环游世界写下的原创故事与摄影
-- [yuetalks](https://github.com/gengyueworks/yuetalks) — 随笔与个人专栏
-- [Brand-Stories](https://github.com/gengyueworks/Brand-Stories) — 品牌合作特稿（叙事包装，不是广告）
-- [Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays) — 小众设计民宿精选
-- [Travel-Guides](https://github.com/gengyueworks/Travel-Guides) — 目的地深度攻略与路线
-- [ZXMOTO-Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — 中国机车制造报道
+### Public Columns & Stories
+- [Travel-Stories](https://github.com/gengyueworks/Travel-Stories) — Original stories & photography from years of traveling the world
+- [yuetalks](https://github.com/gengyueworks/yuetalks) — Essays & personal column
+- [Brand-Stories](https://github.com/gengyueworks/Brand-Stories) — Brand collaboration features (narrative framing, not ads)
+- [Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays) — Curated boutique & design stays
+- [Travel-Guides](https://github.com/gengyueworks/Travel-Guides) — In-depth destination guides & routes
+- [ZXMOTO-Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — China motorcycle manufacturing reporting
 
-### AI 高质量阅读库（公开精选）
-每天从海量信息里挑出真正值得读的高质量内容，按主题做成精选合集。
-- [wanderer-picks](https://github.com/gengyueworks/wanderer-picks) — 旅行主题高质量阅读精选
-- [tech-picks](https://github.com/gengyueworks/tech-picks) — 科技主题高质量阅读精选
-- [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — 精神食粮主题高质量阅读精选（"吃点好的"＝读好的，不是美食）
+### AI Reading Library (public picks)
+Daily distillation of truly worth-reading high-quality content from the noise, curated by theme.
+- [wanderer-picks](https://github.com/gengyueworks/wanderer-picks) — Travel-themed high-quality reading picks
+- [tech-picks](https://github.com/gengyueworks/tech-picks) — Tech-themed high-quality reading picks
+- [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — "Nourishing reads" picks ("eat the good stuff" = feed your mind well, not food)
 
-### 课程（公开框架预览）
-- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — 阅读课程
-- [invest-masters](https://github.com/gengyueworks/invest-masters) — 投资大师思想库（公开试读版）
+### Courses (public framework preview)
+- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course
+- [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
 - [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course)
 
-### 🔒 进行中 / 私有作品（打磨中，陆续公开）
-> 核心专题与课程，正在写，暂不公开。
+### 🔒 In Progress / Private (polishing, going public gradually)
+> Core columns & courses, still being written, not public yet.
 
-### 专题系列
-
-<table>
-<tr><td><a href="https://github.com/gengyueworks/The-Creators">The-Creators</a> · 创作者</td><td><a href="https://github.com/gengyueworks/The-Filmmakers">The-Filmmakers</a> · 导演</td><td><a href="https://github.com/gengyueworks/The-Luminous">The-Luminous</a> · 闪光的人</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/The-Photographers">The-Photographers</a> · 摄影师</td><td><a href="https://github.com/gengyueworks/The-Universe">The-Universe</a> · 宇宙→绘本</td><td><a href="https://github.com/gengyueworks/The-Animals">The-Animals</a> · 动物→绘本</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/The-Plants">The-Plants</a> · 植物视觉</td><td><a href="https://github.com/gengyueworks/The-Music">The-Music</a> · 古典乐随笔</td><td><a href="https://github.com/gengyueworks/her-stories">her-stories</a> · 女性故事</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/AI-Art-Stories">AI-Art-Stories</a> · AI 视觉艺术家存档</td><td><a href="https://github.com/gengyueworks/me-and-ai">me-and-ai</a> · 我与 AI</td><td></td></tr>
-</table>
-
-### 课程系列
+### Topic Series
 
 <table>
-<tr><td><a href="https://github.com/gengyueworks/love-yourself-course">love-yourself-course</a> · 爱自己大课</td><td><a href="https://github.com/gengyueworks/exercise-course">exercise-course</a> · 锻炼篇</td><td><a href="https://github.com/gengyueworks/sugar-free-course">sugar-free-course</a> · 断糖饮食篇</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/time-course">time-course</a> · 时间</td><td><a href="https://github.com/gengyueworks/ai-writing-course">ai-writing-course</a> · AI 写作</td><td></td></tr>
+<tr><td><a href="https://github.com/gengyueworks/The-Creators">The-Creators</a> · Creators</td><td><a href="https://github.com/gengyueworks/The-Filmmakers">The-Filmmakers</a> · Filmmakers</td><td><a href="https://github.com/gengyueworks/The-Luminous">The-Luminous</a> · Luminous people</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/The-Photographers">The-Photographers</a> · Photographers</td><td><a href="https://github.com/gengyueworks/The-Universe">The-Universe</a> · Universe → picture book</td><td><a href="https://github.com/gengyueworks/The-Animals">The-Animals</a> · Animals → picture book</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/The-Plants">The-Plants</a> · Plant visuals</td><td><a href="https://github.com/gengyueworks/The-Music">The-Music</a> · Classical music essays</td><td><a href="https://github.com/gengyueworks/her-stories">her-stories</a> · Women's stories</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/AI-Art-Stories">AI-Art-Stories</a> · AI visual artists archive</td><td><a href="https://github.com/gengyueworks/me-and-ai">me-and-ai</a> · Me & AI</td><td></td></tr>
 </table>
 
-### 方法论库
+### Course Series
 
 <table>
-<tr><td><a href="https://github.com/gengyueworks/creativity-flow-bible">creativity-flow-bible</a> · 创造力心流</td><td><a href="https://github.com/gengyueworks/writing-verification-method">writing-verification-method</a> · 写作查证法</td><td><a href="https://github.com/gengyueworks/socratopia-learning-engineering">socratopia-learning-engineering</a> · 苏格拉底式学习工程</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/love-yourself-course">love-yourself-course</a> · Self-love course</td><td><a href="https://github.com/gengyueworks/exercise-course">exercise-course</a> · Fitness</td><td><a href="https://github.com/gengyueworks/sugar-free-course">sugar-free-course</a> · Sugar-free diet</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/time-course">time-course</a> · Time</td><td><a href="https://github.com/gengyueworks/ai-writing-course">ai-writing-course</a> · AI writing</td><td></td></tr>
 </table>
 
-- [declutter-letters](https://github.com/gengyueworks/declutter-letters) · 断舍离写信
+### Methodology Library
+
+<table>
+<tr><td><a href="https://github.com/gengyueworks/creativity-flow-bible">creativity-flow-bible</a> · Creative flow</td><td><a href="https://github.com/gengyueworks/writing-verification-method">writing-verification-method</a> · Writing verification method</td><td><a href="https://github.com/gengyueworks/socratopia-learning-engineering">socratopia-learning-engineering</a> · Socratic learning engineering</td></tr>
+</table>
+
+- [declutter-letters](https://github.com/gengyueworks/declutter-letters) · Declutter letters
 
 ---
 
-## ② 产品 / 工具
+## ② Products / Tools
 
-- [gym-exercise-guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 个健身动作双语图解库
-- [investing-booklist](https://github.com/gengyueworks/investing-booklist) — 投资理财书单
-- [lobster-break](https://github.com/gengyueworks/lobster-break) — 反久坐小工具 · [lobster-diaries](https://github.com/gengyueworks/lobster-diaries) — AI 龙虾日记
-- [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — 面对网暴（公开试读版）
-- 🔒 overseas-remote-jobs-hub（海外远程工作聚合）· ai-garden-3d-build（3D 植物花园）· only-one（时间盒专注工具）· creative-consulting（创意咨询）
+- [gym-exercise-guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 bilingual illustrated fitness movements
+- [investing-booklist](https://github.com/gengyueworks/investing-booklist) — Investing & personal finance booklist
+- [lobster-break](https://github.com/gengyueworks/lobster-break) — anti-sitting break tool · [lobster-diaries](https://github.com/gengyueworks/lobster-diaries) — AI lobster diary
+- [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — facing cyberbullying (public preview)
+- 🔒 overseas-remote-jobs-hub (overseas remote job aggregator) · ai-garden-3d-build (3D plant garden) · only-one (time-boxing focus tool) · creative-consulting (creative consulting)
 
 ---
 
-## ③ 实验合集 · 灵感花园 🧪
+## ③ Experiments · Inspiration Garden 🧪
 
-> 用"灵感雷达"每天扫可策展的主题，挑有意思的建仓。实验性质，慢慢养，跑出苗头再重点推——所以放在最次要的位置。
+> Using the "Inspiration Radar" to scan curatable themes daily, pick interesting ones to build repos. Experimental, nurtured slowly, pushed hard once they show promise — hence placed last.
 
-**🌱 灵感花园（公开策展）**　[nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection)（NASA 星辰星云）· [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth)（地球最孤独地点）· [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations)（电影取景地）· [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press)（全球独立杂志）
+**🌱 Inspiration Garden (public curation)**　[nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection) (NASA stars & nebulae) · [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth) (loneliest places on Earth) · [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations) (filming locations) · [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press) (global indie magazines)
 
-**🔒 暂未公开**
-- non-coder-builders（非程序员搞钱）· science-3000-industrial（科学三千年·工业篇）
+**🔒 Not public yet**
+- non-coder-builders (non-coders making money) · science-3000-industrial (3,000 years of science · industrial era)
 
 ---
 
@@ -101,11 +101,11 @@
 
 <p align="center">
   <a href="https://x.com/your_handle"><img src="https://img.shields.io/badge/-X-181717?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.xiaohongshu.com/user/profile/your_id"><img src="https://img.shields.io/badge/-小红书-181717?style=flat-square" alt="小红书"/></a>
+  <a href="https://www.xiaohongshu.com/user/profile/your_id"><img src="https://img.shields.io/badge/-RED-181717?style=flat-square" alt="RED"/></a>
   <a href="https://your-newsletter.com"><img src="https://img.shields.io/badge/-Newsletter-181717?style=flat-square&logo=mailchimp&logoColor=white" alt="Newsletter"/></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logo=wordpress&logoColor=white" alt="Blog"/></a>
   <a href="https://github.com/gengyueworks"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<!-- 把上面 your_handle / your_id / your-newsletter / you@example.com / your-blog 换成你的真实账号，再删掉这行注释 -->
+<!-- Replace your_handle / your_id / your-newsletter / you@example.com / your-blog above with your real accounts, then delete this comment -->
