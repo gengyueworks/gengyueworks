@@ -50,10 +50,29 @@
 ### 🔒 进行中 / 私有作品（打磨中，陆续公开）
 > 核心专题与课程，正在写，暂不公开。
 
-- **专题系列**：The-Creators（创作者）· The-Filmmakers（导演）· The-Luminous（闪光的人）· The-Photographers（摄影师）· The-Universe（宇宙→绘本）· The-Animals（动物→绘本）· The-Plants（植物视觉）· The-Music（古典乐随笔）· her-stories（女性故事）· AI-Art-Stories（AI 视觉艺术家存档）· me-and-ai（我与 AI）
-- **课程系列**：love-yourself-course（爱自己大课）· exercise-course（锻炼篇）· sugar-free-course（断糖饮食篇）· time-course（时间）· ai-writing-course（AI 写作）
-- **方法论库**：creativity-flow-bible（创造力心流）· writing-verification-method（写作查证法）· socratopia-learning-engineering（苏格拉底式学习工程）
-- declutter-letters（断舍离写信）
+### 专题系列
+
+<table>
+<tr><td><a href="https://github.com/gengyueworks/The-Creators">The-Creators</a> · 创作者</td><td><a href="https://github.com/gengyueworks/The-Filmmakers">The-Filmmakers</a> · 导演</td><td><a href="https://github.com/gengyueworks/The-Luminous">The-Luminous</a> · 闪光的人</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/The-Photographers">The-Photographers</a> · 摄影师</td><td><a href="https://github.com/gengyueworks/The-Universe">The-Universe</a> · 宇宙→绘本</td><td><a href="https://github.com/gengyueworks/The-Animals">The-Animals</a> · 动物→绘本</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/The-Plants">The-Plants</a> · 植物视觉</td><td><a href="https://github.com/gengyueworks/The-Music">The-Music</a> · 古典乐随笔</td><td><a href="https://github.com/gengyueworks/her-stories">her-stories</a> · 女性故事</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/AI-Art-Stories">AI-Art-Stories</a> · AI 视觉艺术家存档</td><td><a href="https://github.com/gengyueworks/me-and-ai">me-and-ai</a> · 我与 AI</td><td></td></tr>
+</table>
+
+### 课程系列
+
+<table>
+<tr><td><a href="https://github.com/gengyueworks/love-yourself-course">love-yourself-course</a> · 爱自己大课</td><td><a href="https://github.com/gengyueworks/exercise-course">exercise-course</a> · 锻炼篇</td><td><a href="https://github.com/gengyueworks/sugar-free-course">sugar-free-course</a> · 断糖饮食篇</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/time-course">time-course</a> · 时间</td><td><a href="https://github.com/gengyueworks/ai-writing-course">ai-writing-course</a> · AI 写作</td><td></td></tr>
+</table>
+
+### 方法论库
+
+<table>
+<tr><td><a href="https://github.com/gengyueworks/creativity-flow-bible">creativity-flow-bible</a> · 创造力心流</td><td><a href="https://github.com/gengyueworks/writing-verification-method">writing-verification-method</a> · 写作查证法</td><td><a href="https://github.com/gengyueworks/socratopia-learning-engineering">socratopia-learning-engineering</a> · 苏格拉底式学习工程</td></tr>
+</table>
+
+- [declutter-letters](https://github.com/gengyueworks/declutter-letters) · 断舍离写信
 
 ---
 
