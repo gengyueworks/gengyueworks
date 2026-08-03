@@ -42,11 +42,6 @@ Daily distillation of truly worth-reading high-quality content from the noise, c
 - [tech-picks](https://github.com/gengyueworks/tech-picks) — Tech-themed high-quality reading picks
 - [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — "Nourishing reads" picks ("eat the good stuff" = feed your mind well, not food)
 
-### Courses (public framework preview)
-- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course
-- [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
-- [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course)
-
 ### 🔒 In Progress / Private (polishing, going public gradually)
 > Core columns & courses, still being written, not public yet.
 
@@ -59,12 +54,12 @@ Daily distillation of truly worth-reading high-quality content from the noise, c
 <tr><td><a href="https://github.com/gengyueworks/AI-Art-Stories">AI-Art-Stories</a> · AI visual artists archive</td><td><a href="https://github.com/gengyueworks/me-and-ai">me-and-ai</a> · Me & AI</td><td></td></tr>
 </table>
 
-### Course Series
-
-<table>
-<tr><td><a href="https://github.com/gengyueworks/love-yourself-course">love-yourself-course</a> · Self-love course</td><td><a href="https://github.com/gengyueworks/exercise-course">exercise-course</a> · Fitness</td><td><a href="https://github.com/gengyueworks/sugar-free-course">sugar-free-course</a> · Sugar-free diet</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/time-course">time-course</a> · Time</td><td><a href="https://github.com/gengyueworks/ai-writing-course">ai-writing-course</a> · AI writing</td><td></td></tr>
-</table>
+### Courses
+- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course
+- [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
+- [love-yourself-course](https://github.com/gengyueworks/love-yourself-course) · Self-love course
+- [exercise-course](https://github.com/gengyueworks/exercise-course) · [sugar-free-course](https://github.com/gengyueworks/sugar-free-course) · [time-course](https://github.com/gengyueworks/time-course) — Wellbeing: fitness / sugar-free / time
+- [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course) · [ai-writing-course](https://github.com/gengyueworks/ai-writing-course) — AI & tools
 
 ### Methodology Library
 
