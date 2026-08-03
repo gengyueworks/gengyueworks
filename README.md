@@ -48,10 +48,10 @@ Daily distillation of truly worth-reading high-quality content from the noise, c
 ### Topic Series
 
 <table>
-<tr><td><a href="https://github.com/gengyueworks/The-Creators">The-Creators</a> · Creators</td><td><a href="https://github.com/gengyueworks/The-Filmmakers">The-Filmmakers</a> · Filmmakers</td><td><a href="https://github.com/gengyueworks/The-Luminous">The-Luminous</a> · Luminous people</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/The-Photographers">The-Photographers</a> · Photographers</td><td><a href="https://github.com/gengyueworks/The-Universe">The-Universe</a> · Universe → picture book</td><td><a href="https://github.com/gengyueworks/The-Animals">The-Animals</a> · Animals → picture book</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/The-Creators">The-Creators</a></td><td><a href="https://github.com/gengyueworks/The-Filmmakers">The-Filmmakers</a></td><td><a href="https://github.com/gengyueworks/The-Luminous">The-Luminous</a> · Luminous people</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/The-Photographers">The-Photographers</a></td><td><a href="https://github.com/gengyueworks/The-Universe">The-Universe</a> · Universe → picture book</td><td><a href="https://github.com/gengyueworks/The-Animals">The-Animals</a> · Animals → picture book</td></tr>
 <tr><td><a href="https://github.com/gengyueworks/The-Plants">The-Plants</a> · Plant visuals</td><td><a href="https://github.com/gengyueworks/The-Music">The-Music</a> · Classical music essays</td><td><a href="https://github.com/gengyueworks/her-stories">her-stories</a> · Women's stories</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/AI-Art-Stories">AI-Art-Stories</a> · AI visual artists archive</td><td><a href="https://github.com/gengyueworks/me-and-ai">me-and-ai</a> · Me & AI</td><td></td></tr>
+<tr><td><a href="https://github.com/gengyueworks/AI-Art-Stories">AI-Art-Stories</a> · AI visual artists archive</td><td><a href="https://github.com/gengyueworks/me-and-ai">me-and-ai</a></td><td></td></tr>
 </table>
 
 ### Courses
@@ -64,7 +64,7 @@ Daily distillation of truly worth-reading high-quality content from the noise, c
 ### Methodology Library
 
 <table>
-<tr><td><a href="https://github.com/gengyueworks/creativity-flow-bible">creativity-flow-bible</a> · Creative flow</td><td><a href="https://github.com/gengyueworks/writing-verification-method">writing-verification-method</a> · Writing verification method</td><td><a href="https://github.com/gengyueworks/socratopia-learning-engineering">socratopia-learning-engineering</a> · Socratic learning engineering</td></tr>
+<tr><td><a href="https://github.com/gengyueworks/creativity-flow-bible">creativity-flow-bible</a></td><td><a href="https://github.com/gengyueworks/writing-verification-method">writing-verification-method</a></td><td><a href="https://github.com/gengyueworks/socratopia-learning-engineering">socratopia-learning-engineering</a></td></tr>
 </table>
 
 - [declutter-letters](https://github.com/gengyueworks/declutter-letters) · Declutter letters
