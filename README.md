@@ -74,10 +74,15 @@ Daily distillation of truly worth-reading high-quality content from the noise, c
 ## ② Products / Tools
 
 - [gym-exercise-guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 bilingual illustrated fitness movements
-- [investing-booklist](https://github.com/gengyueworks/investing-booklist) — Investing & personal finance booklist
 - [lobster-break](https://github.com/gengyueworks/lobster-break) — anti-sitting break tool · [lobster-diaries](https://github.com/gengyueworks/lobster-diaries) — AI lobster diary
 - [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — facing cyberbullying (public preview)
-- 🔒 overseas-remote-jobs-hub (overseas remote job aggregator) · ai-garden-3d-build (3D plant garden) · only-one (time-boxing focus tool) · creative-consulting (creative consulting)
+
+🔒 Not public yet
+- 🔒 [investing-booklist](https://github.com/gengyueworks/investing-booklist) — Investing & personal finance booklist
+- 🔒 [overseas-remote-jobs-hub](https://github.com/gengyueworks/overseas-remote-jobs-hub) — overseas remote job aggregator
+- 🔒 [ai-garden-3d-build](https://github.com/gengyueworks/ai-garden-3d-build) — 3D plant garden
+- 🔒 [only-one](https://github.com/gengyueworks/only-one) — time-boxing focus tool
+- 🔒 [creative-consulting](https://github.com/gengyueworks/creative-consulting) — creative consulting
 
 ---
 
