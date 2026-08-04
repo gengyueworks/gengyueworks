@@ -64,22 +64,22 @@ Daily distillation of truly worth-reading high-quality content from the noise, c
 
 - [human-time](https://github.com/gengyueworks/human-time) 🔒 — the data-visualization feature (152 people · 1336 time segments)
 - [human-time-text](https://github.com/gengyueworks/human-time-text) 🔒 — the textual base: quotes, life stories, time stories (sister repo of human-time)
-- [time-bill](https://github.com/gengyueworks/time-bill) 🔒 — 柳比歇夫 time-billing skill
+- [time-bill](https://github.com/gengyueworks/time-bill) 🔒 — time-billing skill（时间账单）
 - [only-one](https://github.com/gengyueworks/only-one) 🔒 — 开干: time-boxing focus tool (companion app)
 
 ## ⑦ Investing & Finance · 投资
 
-- [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library: Buffett / Munger / Graham / Naval / Dalio (public preview)
+- [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library（投资大师思想库·公开试读）
 - 🔒 [investing-booklist](https://github.com/gengyueworks/investing-booklist) — Investing & personal finance booklist (239 books, CC BY 4.0)
 - 🔒 [financial-reports-shelf](https://github.com/gengyueworks/financial-reports-shelf) — Personal fund top-holdings financial-report database (self-use)
 - 🔒 [fund-investment-analysis](https://github.com/gengyueworks/fund-investment-analysis) — Fund investment analysis (private backup & version control)
 
 ## ⑧ Methodology & Skills
 
-- [perkins-editor-skill](https://github.com/gengyueworks/perkins-editor-skill) — 珀金斯编辑法: an editing-diagnosis system distilled from *Max Perkins: Editor of Genius*
+- [perkins-editor-skill](https://github.com/gengyueworks/perkins-editor-skill) — 编辑诊断与打磨系统，源自《天才的编辑》
 - 🔒 [creativity-flow-bible](https://github.com/gengyueworks/creativity-flow-bible) — An action bible for creativity, flow & getting things done
-- 🔒 [writing-verification-method](https://github.com/gengyueworks/writing-verification-method) — 李笑来 writing-verification checklist
-- 🔒 [socratopia-learning-engineering](https://github.com/gengyueworks/socratopia-learning-engineering) — Socratic question-driven learning system
+- 🔒 [writing-verification-method](https://github.com/gengyueworks/writing-verification-method) — 写作查证法 · 精简约束版
+- 🔒 [socratopia-learning-engineering](https://github.com/gengyueworks/socratopia-learning-engineering) — 追问驱动学习系统工程库
 - 🔒 [declutter-letters](https://github.com/gengyueworks/declutter-letters) — Declutter letters (product/ops archive)
 - 🔒 [skills](https://github.com/gengyueworks/skills) — Personal AI skills collection: writing, finance research, tools, methodology
 
