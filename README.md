@@ -5,17 +5,7 @@
 <h1 align="center">Yue · gengyueworks 👋</h1>
 <p align="center"><b>Writer / Traveler / Creator</b> · Brand storytelling through feature writing</p>
 
-## ✨ Featured · Start Here
-
-> Only want to see a few? Start here:
-
-- ✍️ **[Travel-Stories](https://github.com/gengyueworks/Travel-Stories)** — Original travel stories & photography from around the world (bilingual)
-- 🏡 **[Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays)** — Curated boutique & design stays
-- 🌐 **Personal website** (coming soon) — Official home for writing / travel / courses, in progress
-- 🎙️ **[yuetalks](https://github.com/gengyueworks/yuetalks)** — Essays & people-interview column
-- 📚 **[AI Reading Library](https://github.com/gengyueworks/wanderer-picks)** — Three public picks (travel / tech / nourishing reads), the truly worth-reading distilled daily
-
-**My work in three layers**: ① Main work (what I'm actually building) on top; ② Products & tools in the middle; ③ Experiments are attempts surfaced daily by the "Inspiration Radar", nurtured slowly. **Many main works are still privately in progress, and will move to ① once public.**
+Travel stories, essays, reading courses, filmmaker & creator series, AI courses — this is my talent to flow in the universe.
 
 <p align="center">
   <img src="https://ghchart.rshah.org/0366B5/gengyueworks?t=1785810203" alt="GitHub contributions in the last year"/>
@@ -25,8 +15,6 @@
 
 
 ## ① Main Work · Original Columns / Courses
-
-Travel stories, essays, reading courses, filmmaker & creator series, self-love courses — this is my face to the world.
 
 ### Public Columns & Stories
 - [Travel-Stories](https://github.com/gengyueworks/Travel-Stories) — Original stories & photography from years of traveling the world
