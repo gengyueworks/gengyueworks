@@ -18,7 +18,7 @@
 **My work in three layers**: ① Main work (what I'm actually building) on top; ② Products & tools in the middle; ③ Experiments are attempts surfaced daily by the "Inspiration Radar", nurtured slowly. **Many main works are still privately in progress, and will move to ① once public.**
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0366B5/gengyueworks" alt="GitHub contributions in the last year"/>
+  <img src="https://ghchart.rshah.org/0366B5/gengyueworks?t=1785810203" alt="GitHub contributions in the last year"/>
 </p>
 
 ---
