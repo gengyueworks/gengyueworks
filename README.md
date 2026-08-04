@@ -13,75 +13,127 @@ Travel stories, essays, reading courses, filmmaker & creator series, AI courses 
 
 ---
 
+## ① Writing · Columns & Stories
 
-## ① Main Work · Original Columns / Courses
-
-### Public Columns & Stories
 - [Travel-Stories](https://github.com/gengyueworks/Travel-Stories) — Original stories & photography from years of traveling the world
 - [yuetalks](https://github.com/gengyueworks/yuetalks) — Essays & personal column
 - [Brand-Stories](https://github.com/gengyueworks/Brand-Stories) — Brand collaboration features (narrative framing, not ads)
 - [Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays) — Curated boutique & design stays
 - [Travel-Guides](https://github.com/gengyueworks/Travel-Guides) — In-depth destination guides & routes
 - [ZXMOTO-Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — China motorcycle manufacturing reporting
+- [pentax67ii-manual](https://github.com/gengyueworks/pentax67ii-manual) — Pentax 67II field manual (camera notes for travel & film photography)
 
-### AI Reading Library (public picks)
+## ② Human Series · 人物系列
+
+> Non-fiction columns about people worth studying — writers, creators, filmmakers, photographers, women, inventors. Grouped by the type of person each column follows.
+
+| Series | Focus |
+|---|---|
+| [The-Luminous](https://github.com/gengyueworks/The-Luminous) 🔒 | 闪光的人 — exceptional people & what is learnable from them |
+| [The-Creators](https://github.com/gengyueworks/The-Creators) 🔒 | Creators — the long middle years behind great work |
+| [makers-column](https://github.com/gengyueworks/makers-column) 🔒 | 造物者 — inventors, builders, lifelong obsessives (0→1) |
+| [her-stories](https://github.com/gengyueworks/her-stories) 🔒 | Women worth seeing |
+| [The-Filmmakers](https://github.com/gengyueworks/The-Filmmakers) 🔒 | Directors — finding the real voice behind the noise |
+| [The-Photographers](https://github.com/gengyueworks/The-Photographers) 🔒 | Photographers — learning to see before shooting |
+| [The-Music](https://github.com/gengyueworks/The-Music) 🔒 | Classical music & music essays |
+| [casey-neistat-knowledge](https://github.com/gengyueworks/casey-neistat-knowledge) 🔒 | Casey Neistat — video creation knowledge base |
+| [photography-masters-gallery](https://github.com/gengyueworks/photography-masters-gallery) 🔒 | Photography masters — portfolio gallery (code/docs; images local) |
+| [AI-Art-Stories](https://github.com/gengyueworks/AI-Art-Stories) 🔒 | AI visual artists archive — model/prompt/seed metadata, reproducible |
+| [me-and-ai](https://github.com/gengyueworks/me-and-ai) 🔒 | 我与 AI — dialogues with AI, in the vein of 《十日谈》 |
+| [the-masters](https://github.com/gengyueworks/the-masters) 🔒 | Masterclass notes (photography & creative masters) |
+
+**Picture-book material vaults（绘本素材仓）**: [The-Universe](https://github.com/gengyueworks/The-Universe) 🔒 · [The-Animals](https://github.com/gengyueworks/The-Animals) 🔒 · [The-Plants](https://github.com/gengyueworks/The-Plants) 🔒
+
+## ③ AI Reading Library · AI 阅读库
+
 Daily distillation of truly worth-reading high-quality content from the noise, curated by theme.
+
+- [ai-news](https://github.com/gengyueworks/ai-news) — AI News · 开放查阅版: daily AI news digest (GitHub Pages, public)
+- [ai-dictionary](https://github.com/gengyueworks/ai-dictionary) — AI 祛魅词典: 1327-term index + 50 full sample cards, public
 - [wanderer-picks](https://github.com/gengyueworks/wanderer-picks) — Travel-themed high-quality reading picks
 - [tech-picks](https://github.com/gengyueworks/tech-picks) — Tech-themed high-quality reading picks
 - [eat-the-good-stuff](https://github.com/gengyueworks/eat-the-good-stuff) — "Nourishing reads" picks ("eat the good stuff" = feed your mind well, not food)
+- 🔒 [curation-standards](https://github.com/gengyueworks/curation-standards) — Information-selection standards distilled from AI News / Deep Reading (CC0)
 
-### 🔒 In Progress / Private (polishing, going public gradually)
-> Core columns & courses, still being written, not public yet.
+## ④ Daily Calendars · 每日日历（auto-updated by GitHub Actions）
 
-### Topic Series
+- [one-artist-a-day](https://github.com/gengyueworks/one-artist-a-day) — 每天认识一位艺术家: a Chinese art-history daily calendar
+- [one-scientist-a-day](https://github.com/gengyueworks/one-scientist-a-day) — 每天认识一位科学家: 365-day science-history calendar (372-person pool)
+- [daily-stoic](https://github.com/gengyueworks/daily-stoic) — 每日斯多葛: daily Stoic passage + plain-language translation + modern reading + today's action
 
-<table>
-<tr><td><a href="https://github.com/gengyueworks/The-Creators">The-Creators</a></td><td><a href="https://github.com/gengyueworks/The-Filmmakers">The-Filmmakers</a></td><td><a href="https://github.com/gengyueworks/The-Luminous">The-Luminous</a> · Luminous people</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/The-Photographers">The-Photographers</a></td><td><a href="https://github.com/gengyueworks/The-Universe">The-Universe</a> · Universe → picture book</td><td><a href="https://github.com/gengyueworks/The-Animals">The-Animals</a> · Animals → picture book</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/The-Plants">The-Plants</a> · Plant visuals</td><td><a href="https://github.com/gengyueworks/The-Music">The-Music</a> · Classical music essays</td><td><a href="https://github.com/gengyueworks/her-stories">her-stories</a> · Women's stories</td></tr>
-<tr><td><a href="https://github.com/gengyueworks/AI-Art-Stories">AI-Art-Stories</a> · AI visual artists archive</td><td><a href="https://github.com/gengyueworks/me-and-ai">me-and-ai</a></td><td></td></tr>
-</table>
+## ⑤ Courses · 课程
 
-### Courses
-- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course
+**Public (framework previews)**
+- [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course · AI 时代阅读课
 - [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
-- [love-yourself-course](https://github.com/gengyueworks/love-yourself-course) · Self-love course
-- [exercise-course](https://github.com/gengyueworks/exercise-course) · [sugar-free-course](https://github.com/gengyueworks/sugar-free-course) · [time-course](https://github.com/gengyueworks/time-course) — Wellbeing: fitness / sugar-free / time
-- [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course) · [ai-writing-course](https://github.com/gengyueworks/ai-writing-course) — AI & tools
+- [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course) — AI & tools (previews; full content stays private)
 
-### Methodology Library
+**🔒 Private (in progress)**
+- [love-yourself-course](https://github.com/gengyueworks/love-yourself-course) — Self-love course (hub) · [exercise-course](https://github.com/gengyueworks/exercise-course) · [sugar-free-course](https://github.com/gengyueworks/sugar-free-course) — wellbeing series
+- [time-course](https://github.com/gengyueworks/time-course) — 24-hour time-management course · [ai-writing-course](https://github.com/gengyueworks/ai-writing-course) — AI writing course
 
-<table>
-<tr><td><a href="https://github.com/gengyueworks/creativity-flow-bible">creativity-flow-bible</a></td><td><a href="https://github.com/gengyueworks/writing-verification-method">writing-verification-method</a></td><td><a href="https://github.com/gengyueworks/socratopia-learning-engineering">socratopia-learning-engineering</a></td></tr>
-</table>
+## ⑥ Time · 人类的时间（one project, split into repos）
 
-- [declutter-letters](https://github.com/gengyueworks/declutter-letters) · Declutter letters
+> How 152 great people used their days — one visualization project in three parts.
 
----
+- [human-time](https://github.com/gengyueworks/human-time) 🔒 — the data-visualization feature (152 people · 1336 time segments)
+- [human-time-text](https://github.com/gengyueworks/human-time-text) 🔒 — the textual base: quotes, life stories, time stories (sister repo of human-time)
+- [time-bill](https://github.com/gengyueworks/time-bill) 🔒 — 柳比歇夫 time-billing skill
+- [only-one](https://github.com/gengyueworks/only-one) 🔒 — 开干: time-boxing focus tool (companion app)
 
-## ② Products / Tools
+## ⑦ Investing & Finance · 投资
+
+- [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library: Buffett / Munger / Graham / Naval / Dalio (public preview)
+- 🔒 [investing-booklist](https://github.com/gengyueworks/investing-booklist) — Investing & personal finance booklist (239 books, CC BY 4.0)
+- 🔒 [financial-reports-shelf](https://github.com/gengyueworks/financial-reports-shelf) — Personal fund top-holdings financial-report database (self-use)
+- 🔒 [fund-investment-analysis](https://github.com/gengyueworks/fund-investment-analysis) — Fund investment analysis (private backup & version control)
+
+## ⑧ Methodology & Skills
+
+- [perkins-editor-skill](https://github.com/gengyueworks/perkins-editor-skill) — 珀金斯编辑法: an editing-diagnosis system distilled from *Max Perkins: Editor of Genius*
+- 🔒 [creativity-flow-bible](https://github.com/gengyueworks/creativity-flow-bible) — An action bible for creativity, flow & getting things done
+- 🔒 [writing-verification-method](https://github.com/gengyueworks/writing-verification-method) — 李笑来 writing-verification checklist
+- 🔒 [socratopia-learning-engineering](https://github.com/gengyueworks/socratopia-learning-engineering) — Socratic question-driven learning system
+- 🔒 [declutter-letters](https://github.com/gengyueworks/declutter-letters) — Declutter letters (product/ops archive)
+- 🔒 [skills](https://github.com/gengyueworks/skills) — Personal AI skills collection: writing, finance research, tools, methodology
+
+## ⑨ Products & Tools
 
 - [gym-exercise-guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 bilingual illustrated fitness movements
 - [lobster-break](https://github.com/gengyueworks/lobster-break) — anti-sitting break tool · [lobster-diaries](https://github.com/gengyueworks/lobster-diaries) — AI lobster diary
 - [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — facing cyberbullying (public preview)
-
-🔒 Not public yet
-- 🔒 [investing-booklist](https://github.com/gengyueworks/investing-booklist) — Investing & personal finance booklist
+- [remote-jobhunt-guide](https://github.com/gengyueworks/remote-jobhunt-guide) — open-source field manual: remote job-hunting for Chinese speakers (CC0)
+- 🔒 [zhihu-collector](https://github.com/gengyueworks/zhihu-collector) — local, watermark-free Zhihu Markdown export Chrome extension (MIT)
+- 🔒 [platform-export-tools](https://github.com/gengyueworks/platform-export-tools) — back up your own content from 12 Chinese platforms
 - 🔒 [overseas-remote-jobs-hub](https://github.com/gengyueworks/overseas-remote-jobs-hub) — overseas remote job aggregator
-- 🔒 [ai-garden-3d-build](https://github.com/gengyueworks/ai-garden-3d-build) — 3D plant garden
-- 🔒 [only-one](https://github.com/gengyueworks/only-one) — time-boxing focus tool
-- 🔒 [creative-consulting](https://github.com/gengyueworks/creative-consulting) — creative consulting
+- 🔒 [ai-garden-3d-build](https://github.com/gengyueworks/ai-garden-3d-build) — 3D plant garden (Vite + procedural flowers)
+- 🔒 [creative-consulting](https://github.com/gengyueworks/creative-consulting) — creative consulting for brands & projects
 
----
+## ⑩ Curated Lists · Inspiration Garden 🧪
 
-## ③ Experiments · Inspiration Garden 🧪
+> Using the "Inspiration Radar" to scan curatable themes daily, pick interesting ones to build repos. Experimental, nurtured slowly, pushed hard once they show promise.
 
-> Using the "Inspiration Radar" to scan curatable themes daily, pick interesting ones to build repos. Experimental, nurtured slowly, pushed hard once they show promise — hence placed last.
-
-**🌱 Inspiration Garden (public curation)**　[nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection) (NASA stars & nebulae) · [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth) (loneliest places on Earth) · [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations) (filming locations) · [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press) (global indie magazines)
+**🌱 Public curation**
+- [nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection) — NASA stars & nebulae (bilingual awesome-list)
+- [awesome-habits](https://github.com/gengyueworks/awesome-habits) — habit knowledge: authoritative books, methods, quotes, tools (bilingual)
+- [awesome-minimalism](https://github.com/gengyueworks/awesome-minimalism) — a minimalist's private list: people · books · films · tools (CC0)
+- [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press) — global indie magazines & independent publishing
+- [taste-log](https://github.com/gengyueworks/taste-log) — a curated archive of web design with opinions
+- [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth) — the loneliest places on Earth
+- [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations) — film shooting locations worth traveling to
 
 **🔒 Not public yet**
-- non-coder-builders (non-coders making money) · science-3000-industrial (3,000 years of science · industrial era)
+- non-coder-builders (non-coders making money with AI) · science-3000-industrial (3,000 years of science · industrial era) · world-wilderness-parks (world wilderness parks) · nasa-retro-space-posters (NASA retro posters) · mirrors-of-the-lost-world (镜花水月)
+
+## ⑪ Private · Personal Infrastructure 🔒
+
+- [yuanquan-progress](https://github.com/gengyueworks/yuanquan-progress) — 源泉 280 篇 progress tracker (index only)
+- [Yue-Reading-Books](https://github.com/gengyueworks/Yue-Reading-Books) — personal ebook archive (self-use)
+- [xu-yuanchong-poetry](https://github.com/gengyueworks/xu-yuanchong-poetry) — 许渊冲 poetry translation quick reference
+- [word-power-cards](https://github.com/gengyueworks/word-power-cards) — word-power vocabulary cards
+- [work-log](https://github.com/gengyueworks/work-log) — daily work log (desensitized)
+- [yue-portfolio-site](https://github.com/gengyueworks/yue-portfolio-site) — personal portfolio site (resume / works / essays)
+- [About-Me](https://github.com/gengyueworks/About-Me) — personal introduction & personal website
 
 ---
 
