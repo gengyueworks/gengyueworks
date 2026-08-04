@@ -23,26 +23,12 @@ Travel stories, essays, reading courses, filmmaker & creator series, AI courses 
 - [ZXMOTO-Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — China motorcycle manufacturing reporting
 - [pentax67ii-manual](https://github.com/gengyueworks/pentax67ii-manual) — Pentax 67II field manual (camera notes for travel & film photography)
 
-## ② Human Series · 人物系列
+## ② Human Series · 人物系列 🔒
 
-> Non-fiction columns about people worth studying — writers, creators, filmmakers, photographers, women, inventors. Grouped by the type of person each column follows.
+> Non-fiction columns about people worth studying — all private, going public gradually.
+> 闪光的人（可学之处）· 创造者（伟大作品的中段）· 造物者（0→1）· 她们的故事 · 导演 · 摄影师 · 古典乐随笔 · 绘本素材仓
 
-| Series | Focus |
-|---|---|
-| [The-Luminous](https://github.com/gengyueworks/The-Luminous) 🔒 | 闪光的人 — exceptional people & what is learnable from them |
-| [The-Creators](https://github.com/gengyueworks/The-Creators) 🔒 | Creators — the long middle years behind great work |
-| [makers-column](https://github.com/gengyueworks/makers-column) 🔒 | 造物者 — inventors, builders, lifelong obsessives (0→1) |
-| [her-stories](https://github.com/gengyueworks/her-stories) 🔒 | Women worth seeing |
-| [The-Filmmakers](https://github.com/gengyueworks/The-Filmmakers) 🔒 | Directors — finding the real voice behind the noise |
-| [The-Photographers](https://github.com/gengyueworks/The-Photographers) 🔒 | Photographers — learning to see before shooting |
-| [The-Music](https://github.com/gengyueworks/The-Music) 🔒 | Classical music & music essays |
-| [casey-neistat-knowledge](https://github.com/gengyueworks/casey-neistat-knowledge) 🔒 | Casey Neistat — video creation knowledge base |
-| [photography-masters-gallery](https://github.com/gengyueworks/photography-masters-gallery) 🔒 | Photography masters — portfolio gallery (code/docs; images local) |
-| [AI-Art-Stories](https://github.com/gengyueworks/AI-Art-Stories) 🔒 | AI visual artists archive — model/prompt/seed metadata, reproducible |
-| [me-and-ai](https://github.com/gengyueworks/me-and-ai) 🔒 | 我与 AI — dialogues with AI, in the vein of 《十日谈》 |
-| [the-masters](https://github.com/gengyueworks/the-masters) 🔒 | Masterclass notes (photography & creative masters) |
-
-**Picture-book material vaults（绘本素材仓）**: [The-Universe](https://github.com/gengyueworks/The-Universe) 🔒 · [The-Animals](https://github.com/gengyueworks/The-Animals) 🔒 · [The-Plants](https://github.com/gengyueworks/The-Plants) 🔒
+[The-Luminous](https://github.com/gengyueworks/The-Luminous) · [The-Creators](https://github.com/gengyueworks/The-Creators) · [makers-column](https://github.com/gengyueworks/makers-column) · [her-stories](https://github.com/gengyueworks/her-stories) · [The-Filmmakers](https://github.com/gengyueworks/The-Filmmakers) · [The-Photographers](https://github.com/gengyueworks/The-Photographers) · [The-Music](https://github.com/gengyueworks/The-Music) · [casey-neistat-knowledge](https://github.com/gengyueworks/casey-neistat-knowledge) · [the-masters](https://github.com/gengyueworks/the-masters) · [AI-Art-Stories](https://github.com/gengyueworks/AI-Art-Stories) · [me-and-ai](https://github.com/gengyueworks/me-and-ai) · [The-Universe](https://github.com/gengyueworks/The-Universe) · [The-Animals](https://github.com/gengyueworks/The-Animals) · [The-Plants](https://github.com/gengyueworks/The-Plants)
 
 ## ③ AI Reading Library · AI 阅读库
 
