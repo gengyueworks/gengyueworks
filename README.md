@@ -39,7 +39,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ③ Creative Vaults · 创作素材仓 🔒
 
-[The-Universe](https://github.com/gengyueworks/The-Universe) · [The-Animals](https://github.com/gengyueworks/The-Animals) · [The-Plants](https://github.com/gengyueworks/The-Plants) · [AI-Art-Stories](https://github.com/gengyueworks/AI-Art-Stories)
+[The-Universe](https://github.com/gengyueworks/The-Universe) · [The-Animals](https://github.com/gengyueworks/The-Animals) · [The-Plants](https://github.com/gengyueworks/The-Plants) · [AI-Art-Stories](https://github.com/gengyueworks/AI-Art-Stories) · [photography-masters-gallery](https://github.com/gengyueworks/photography-masters-gallery)
 
 ## ④ AI Reading Library
 
