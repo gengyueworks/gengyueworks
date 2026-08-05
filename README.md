@@ -34,8 +34,18 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 > Non-fiction columns about people worth studying — all private, going public gradually.
 
-| [The Luminous](https://github.com/gengyueworks/The-Luminous) — People who shine | [The Creators](https://github.com/gengyueworks/The-Creators) — People who create | [Makers](https://github.com/gengyueworks/makers-column) — Inventors |
-| [Her Stories](https://github.com/gengyueworks/her-stories) — Women who rewrite the script | [The Filmmakers](https://github.com/gengyueworks/The-Filmmakers) — Directors behind the lens | [The Photographers](https://github.com/gengyueworks/The-Photographers) — Image-makers |
+<table>
+<tr>
+<td>[The Luminous](https://github.com/gengyueworks/The-Luminous) — People who shine</td>
+<td>[The Creators](https://github.com/gengyueworks/The-Creators) — People who create</td>
+<td>[Makers](https://github.com/gengyueworks/makers-column) — Inventors</td>
+</tr>
+<tr>
+<td>[Her Stories](https://github.com/gengyueworks/her-stories) — Women who rewrite the script</td>
+<td>[The Filmmakers](https://github.com/gengyueworks/The-Filmmakers) — Directors behind the lens</td>
+<td>[The Photographers](https://github.com/gengyueworks/The-Photographers) — Image-makers</td>
+</tr>
+</table>
 
 ## ③ Creative Vaults 🔒
 
