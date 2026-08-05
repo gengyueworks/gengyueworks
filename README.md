@@ -61,7 +61,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 - [Yue-Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course for the AI age
 - [invest-masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
 - [ai-course](https://github.com/gengyueworks/ai-course) · [ai-liberal-arts-camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [agent-course](https://github.com/gengyueworks/agent-course) · [obsidian-course](https://github.com/gengyueworks/obsidian-course) — AI & tools (framework previews)
-- 🔒 [love-yourself-course](https://github.com/gengyueworks/love-yourself-course) · [exercise-course](https://github.com/gengyueworks/exercise-course) · [sugar-free-course](https://github.com/gengyueworks/sugar-free-course) · [time-course](https://github.com/gengyueworks/time-course) — wellbeing series
+- 🔒 [love-yourself-course](https://github.com/gengyueworks/love-yourself-course) · [exercise-course](https://github.com/gengyueworks/exercise-course) · [sugar-free-course](https://github.com/gengyueworks/sugar-free-course) — wellbeing series
 - 🔒 [ai-writing-course](https://github.com/gengyueworks/ai-writing-course) — AI writing course
 - 🔒 [the-masters](https://github.com/gengyueworks/the-masters) — Masterclass notes (photography & creative masters)
 
@@ -70,6 +70,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 - [human-time](https://github.com/gengyueworks/human-time) — data visualization of how 152 great people used their days
 - [human-time-text](https://github.com/gengyueworks/human-time-text) — textual base of the same project (quotes, life stories)
 - [time-bill](https://github.com/gengyueworks/time-bill) — time-billing skill
+- [time-course](https://github.com/gengyueworks/time-course) — time-management course
 - [only-one](https://github.com/gengyueworks/only-one) — time-boxing focus tool
 
 ## ⑧ Investing & Finance
@@ -81,13 +82,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ⑨ Methodology & Skills
 
-- [perkins-editor-skill](https://github.com/gengyueworks/perkins-editor-skill) — Editing-diagnosis skill distilled from the editor's craft
-- 🔒 [casey-neistat-knowledge](https://github.com/gengyueworks/casey-neistat-knowledge) — Video creation knowledge base
-- 🔒 [creativity-flow-bible](https://github.com/gengyueworks/creativity-flow-bible) — An action bible for creativity, flow & getting things done
-- 🔒 [writing-verification-method](https://github.com/gengyueworks/writing-verification-method) — Writing-verification checklist
-- 🔒 [socratopia-learning-engineering](https://github.com/gengyueworks/socratopia-learning-engineering) — Question-driven learning system engineering
-- 🔒 [declutter-letters](https://github.com/gengyueworks/declutter-letters) — Declutter letters (product & ops archive)
-- 🔒 [skills](https://github.com/gengyueworks/skills) — Personal AI skills collection
+[perkins-editor-skill](https://github.com/gengyueworks/perkins-editor-skill) · 🔒 [casey-neistat-knowledge](https://github.com/gengyueworks/casey-neistat-knowledge) · 🔒 [creativity-flow-bible](https://github.com/gengyueworks/creativity-flow-bible) · 🔒 [writing-verification-method](https://github.com/gengyueworks/writing-verification-method) · 🔒 [socratopia-learning-engineering](https://github.com/gengyueworks/socratopia-learning-engineering) · 🔒 [declutter-letters](https://github.com/gengyueworks/declutter-letters) · 🔒 [skills](https://github.com/gengyueworks/skills)
 
 ## ⑩ Products & Tools
 
@@ -103,14 +98,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ⑪ Curated Lists
 
-- [nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection) — NASA stars & nebulae (bilingual)
-- [awesome-habits](https://github.com/gengyueworks/awesome-habits) — Habit knowledge: books, methods, quotes, tools
-- [awesome-minimalism](https://github.com/gengyueworks/awesome-minimalism) — A minimalist's private list (CC0)
-- [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press) — Global indie magazines & independent publishing
-- [taste-log](https://github.com/gengyueworks/taste-log) — A curated archive of web design with opinions
-- [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth) — The loneliest places on Earth
-- [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations) — Film shooting locations worth traveling to
-- 🔒 [non-coder-builders](https://github.com/gengyueworks/non-coder-builders) · [science-3000-industrial](https://github.com/gengyueworks/science-3000-industrial) · [world-wilderness-parks](https://github.com/gengyueworks/world-wilderness-parks) · [nasa-retro-space-posters](https://github.com/gengyueworks/nasa-retro-space-posters) · [mirrors-of-the-lost-world](https://github.com/gengyueworks/mirrors-of-the-lost-world)
+[nasa-stars-collection](https://github.com/gengyueworks/nasa-stars-collection) · [awesome-habits](https://github.com/gengyueworks/awesome-habits) · [awesome-minimalism](https://github.com/gengyueworks/awesome-minimalism) · [awesome-indie-press](https://github.com/gengyueworks/awesome-indie-press) · [taste-log](https://github.com/gengyueworks/taste-log) · [loneliest-places-on-earth](https://github.com/gengyueworks/loneliest-places-on-earth) · [cinematic-travel-locations](https://github.com/gengyueworks/cinematic-travel-locations) · 🔒 [non-coder-builders](https://github.com/gengyueworks/non-coder-builders) · [science-3000-industrial](https://github.com/gengyueworks/science-3000-industrial) · [world-wilderness-parks](https://github.com/gengyueworks/world-wilderness-parks) · [nasa-retro-space-posters](https://github.com/gengyueworks/nasa-retro-space-posters) · [mirrors-of-the-lost-world](https://github.com/gengyueworks/mirrors-of-the-lost-world)
 
 ## ⑫ Private · Personal Infrastructure 🔒
 
