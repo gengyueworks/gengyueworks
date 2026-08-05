@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Yue · gengyueworks 👋</h1>
-<p align="center"><b>Writer / Traveler / Creator</b> · Brand storytelling through feature writing</p>
+<p align="center">Writer / Traveler / Creator · Brand storytelling through feature writing</p>
 
 Travel stories, essays, reading courses, creator series, AI courses — this is my talent to flow in the universe.
 
