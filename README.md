@@ -27,7 +27,6 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 - [Boutique-Stays](https://github.com/gengyueworks/Boutique-Stays) — Curated boutique & design stays
 - [Travel-Guides](https://github.com/gengyueworks/Travel-Guides) — In-depth destination guides & routes
 - [ZXMOTO-Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — China motorcycle manufacturing reporting
-- [pentax67ii-manual](https://github.com/gengyueworks/pentax67ii-manual) — Pentax 67II camera notes for travel & film photography
 - 🔒 [The-Music](https://github.com/gengyueworks/The-Music) — Classical music & music essays
 - 🔒 [me-and-ai](https://github.com/gengyueworks/me-and-ai) — Dialogues with AI, in the vein of a classic story collection
 
@@ -86,6 +85,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ⑩ Products & Tools
 
+- [pentax67ii-manual](https://github.com/gengyueworks/pentax67ii-manual) — Pentax 67II camera manual notes
 - [gym-exercise-guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 bilingual illustrated fitness movements
 - [lobster-break](https://github.com/gengyueworks/lobster-break) — anti-sitting break tool · [lobster-diaries](https://github.com/gengyueworks/lobster-diaries) — AI lobster diary
 - [cyberbullying-handbook](https://github.com/gengyueworks/cyberbullying-handbook) — Facing cyberbullying (public preview)
