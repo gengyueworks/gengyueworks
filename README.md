@@ -32,7 +32,9 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ② Human Series 🔒
 
-[Human Series Index →](https://github.com/gengyueworks/human-series-index)
+> Non-fiction columns about people worth studying — all private, going public gradually.
+
+[The Luminous](https://github.com/gengyueworks/The-Luminous) · [The Creators](https://github.com/gengyueworks/The-Creators) · [Makers](https://github.com/gengyueworks/makers-column) · [Her Stories](https://github.com/gengyueworks/her-stories) · [The Filmmakers](https://github.com/gengyueworks/The-Filmmakers) · [The Photographers](https://github.com/gengyueworks/The-Photographers)
 
 ## ③ Creative Vaults 🔒
 
