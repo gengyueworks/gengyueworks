@@ -66,11 +66,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ⑦ Time Series · one project in several repos 🔒
 
-- [human-time](https://github.com/gengyueworks/human-time) — data visualization of how 152 great people used their days
-- [human-time-text](https://github.com/gengyueworks/human-time-text) — textual base of the same project (quotes, life stories)
-- [time-bill](https://github.com/gengyueworks/time-bill) — time-billing skill
-- [time-course](https://github.com/gengyueworks/time-course) — time-management course
-- [only-one](https://github.com/gengyueworks/only-one) — time-boxing focus tool
+[human-time](https://github.com/gengyueworks/human-time) · [human-time-text](https://github.com/gengyueworks/human-time-text) · [time-bill](https://github.com/gengyueworks/time-bill) · [time-course](https://github.com/gengyueworks/time-course) · [only-one](https://github.com/gengyueworks/only-one)
 
 ## ⑧ Investing & Finance
 
