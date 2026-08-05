@@ -60,9 +60,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 - [Yue Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course for the AI age
 - [Invest Masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
 - [AI Course](https://github.com/gengyueworks/ai-course) · [AI Liberal Arts Camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [Agent Course](https://github.com/gengyueworks/agent-course) · [Obsidian Course](https://github.com/gengyueworks/obsidian-course) — AI & tools (framework previews)
-- 🔒 [Love Yourself Course](https://github.com/gengyueworks/love-yourself-course) · [Exercise Course](https://github.com/gengyueworks/exercise-course) · [Sugar Free Course](https://github.com/gengyueworks/sugar-free-course) — wellbeing series
-- 🔒 [AI Writing Course](https://github.com/gengyueworks/ai-writing-course) — AI writing course
-- 🔒 [The Masters](https://github.com/gengyueworks/the-masters) — Masterclass notes (photography & creative)
+- 🔒 [Love Yourself Course](https://github.com/gengyueworks/love-yourself-course) · [Exercise Course](https://github.com/gengyueworks/exercise-course) · [Sugar Free Course](https://github.com/gengyueworks/sugar-free-course) · [AI Writing Course](https://github.com/gengyueworks/ai-writing-course) · [The Masters](https://github.com/gengyueworks/the-masters)
 
 ## ⑦ Time Series 🔒
 
@@ -70,10 +68,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ⑧ Investing & Finance
 
-- [Invest Masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
-- 🔒 [Investing Booklist](https://github.com/gengyueworks/investing-booklist) — Investing & personal finance booklist (239 books)
-- 🔒 [Financial Reports Shelf](https://github.com/gengyueworks/financial-reports-shelf) — Fund top-holdings financial-report database
-- 🔒 [Fund Investment Analysis](https://github.com/gengyueworks/fund-investment-analysis) — Fund investment analysis
+[Invest Masters](https://github.com/gengyueworks/invest-masters) · 🔒 [Investing Booklist](https://github.com/gengyueworks/investing-booklist) · [Financial Reports Shelf](https://github.com/gengyueworks/financial-reports-shelf) · [Fund Investment Analysis](https://github.com/gengyueworks/fund-investment-analysis)
 
 ## ⑨ Methodology & Skills
 
@@ -81,27 +76,12 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ⑩ Products & Tools
 
-- [Pentax 67II Manual](https://github.com/gengyueworks/pentax67ii-manual) — Pentax 67II camera manual notes
-- [Gym Exercise Guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 bilingual illustrated fitness movements
-- [Lobster Break](https://github.com/gengyueworks/lobster-break) — anti-sitting break tool · [Lobster Diaries](https://github.com/gengyueworks/lobster-diaries) — AI lobster diary
-- [Cyberbullying Handbook](https://github.com/gengyueworks/cyberbullying-handbook) — Facing cyberbullying (public preview)
-- [Remote Jobhunt Guide](https://github.com/gengyueworks/remote-jobhunt-guide) — Remote job-hunting field manual (CC0)
-- 🔒 [Zhihu Collector](https://github.com/gengyueworks/zhihu-collector) — Zhihu Markdown export Chrome extension (MIT)
-- 🔒 [Platform Export Tools](https://github.com/gengyueworks/platform-export-tools) — Back up content from 12 Chinese platforms
-- 🔒 [Overseas Remote Jobs Hub](https://github.com/gengyueworks/overseas-remote-jobs-hub) — Overseas remote job aggregator
-- 🔒 [3D Garden](https://github.com/gengyueworks/ai-garden-3d-build) — 3D plant garden web app
-- 🔒 [Creative Consulting](https://github.com/gengyueworks/creative-consulting) — Creative consulting
+[Pentax 67II Manual](https://github.com/gengyueworks/pentax67ii-manual) · [Gym Exercise Guide](https://github.com/gengyueworks/gym-exercise-guide) · [Lobster Break](https://github.com/gengyueworks/lobster-break) · [Lobster Diaries](https://github.com/gengyueworks/lobster-diaries) · [Cyberbullying Handbook](https://github.com/gengyueworks/cyberbullying-handbook) · [Remote Jobhunt Guide](https://github.com/gengyueworks/remote-jobhunt-guide)
+🔒 [Zhihu Collector](https://github.com/gengyueworks/zhihu-collector) · [Platform Export Tools](https://github.com/gengyueworks/platform-export-tools) · [Overseas Remote Jobs Hub](https://github.com/gengyueworks/overseas-remote-jobs-hub) · [3D Garden](https://github.com/gengyueworks/ai-garden-3d-build) · [Creative Consulting](https://github.com/gengyueworks/creative-consulting)
 
 ## ⑪ Curated Lists
 
-- [NASA Stars](https://github.com/gengyueworks/nasa-stars-collection) — NASA space photos & nebulae
-- [Habit Books](https://github.com/gengyueworks/awesome-habits) — Habits: books, methods, quotes, tools
-- [Minimalism](https://github.com/gengyueworks/awesome-minimalism) — People, books, films, tools
-- [Indie Press](https://github.com/gengyueworks/awesome-indie-press) — Indie magazines & independent publishing
-- [Taste Log](https://github.com/gengyueworks/taste-log) — Web design taste archive
-- [Loneliest Places](https://github.com/gengyueworks/loneliest-places-on-earth) — The loneliest places on Earth
-- [Filming Locations](https://github.com/gengyueworks/cinematic-travel-locations) — Movie filming locations to travel to
-- 🔒 [Non-Coder Builders](https://github.com/gengyueworks/non-coder-builders) · [Science 3000](https://github.com/gengyueworks/science-3000-industrial) · [World Wilderness Parks](https://github.com/gengyueworks/world-wilderness-parks) · [NASA Retro Posters](https://github.com/gengyueworks/nasa-retro-space-posters) · [Mirrors of the Lost World](https://github.com/gengyueworks/mirrors-of-the-lost-world)
+[NASA Stars](https://github.com/gengyueworks/nasa-stars-collection) · [Habit Books](https://github.com/gengyueworks/awesome-habits) · [Minimalism](https://github.com/gengyueworks/awesome-minimalism) · [Indie Press](https://github.com/gengyueworks/awesome-indie-press) · [Taste Log](https://github.com/gengyueworks/taste-log) · [Loneliest Places](https://github.com/gengyueworks/loneliest-places-on-earth) · [Filming Locations](https://github.com/gengyueworks/cinematic-travel-locations) · 🔒 [Non-Coder Builders](https://github.com/gengyueworks/non-coder-builders) · [Science 3000](https://github.com/gengyueworks/science-3000-industrial) · [World Wilderness Parks](https://github.com/gengyueworks/world-wilderness-parks) · [NASA Retro Posters](https://github.com/gengyueworks/nasa-retro-space-posters) · [Mirrors of the Lost World](https://github.com/gengyueworks/mirrors-of-the-lost-world)
 
 ## ⑫ Private · Personal Infrastructure 🔒
 
