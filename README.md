@@ -14,7 +14,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0366B5/gengyueworks" alt="GitHub contributions in the last year"/>
+  <img src="https://ghchart.rshah.org/0366B5/gengyueworks?t=1785964125" alt="GitHub contributions in the last year"/>
 </p>
 
 ---
