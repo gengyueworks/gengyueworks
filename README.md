@@ -21,14 +21,11 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ① Writing · Columns & Stories
 
-- [Travel Stories](https://github.com/gengyueworks/Travel-Stories) — Original stories & photography from years of traveling the world
-- [Yue Talks](https://github.com/gengyueworks/yuetalks) — Essays & personal column
-- [Brand Stories](https://github.com/gengyueworks/Brand-Stories) — Brand collaboration features (narrative framing, not ads)
-- [Boutique Stays](https://github.com/gengyueworks/Boutique-Stays) — Curated boutique & design stays
-- [Travel Guides](https://github.com/gengyueworks/Travel-Guides) — In-depth destination guides & routes
-- [ZXMOTO Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — China motorcycle manufacturing reporting
-- 🔒 [The Music](https://github.com/gengyueworks/The-Music) — Classical music & music essays
-- 🔒 [Me & AI](https://github.com/gengyueworks/me-and-ai) — Dialogues with AI
+|  |  |  |
+|---|---|---|
+| [Travel Stories](https://github.com/gengyueworks/Travel-Stories)<br>Original stories & photography | [Yue Talks](https://github.com/gengyueworks/yuetalks)<br>Essays & personal column | [Brand Stories](https://github.com/gengyueworks/Brand-Stories)<br>Brand features, not ads |
+| [Boutique Stays](https://github.com/gengyueworks/Boutique-Stays)<br>Design hotels & stays | [Travel Guides](https://github.com/gengyueworks/Travel-Guides)<br>Destination guides & routes | [ZXMOTO Stories](https://github.com/gengyueworks/ZXMOTO-Stories)<br>Motorcycle manufacturing |
+| 🔒 [The Music](https://github.com/gengyueworks/The-Music)<br>Classical music essays | 🔒 [Me & AI](https://github.com/gengyueworks/me-and-ai)<br>Dialogues with AI |  |
 
 ## ② Human Series · 人物特稿 🔒
 
@@ -42,25 +39,25 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 ## ④ AI Reading Library
 
-- [AI News](https://github.com/gengyueworks/ai-news) — Daily AI news digest · open access
-- [AI Dictionary](https://github.com/gengyueworks/ai-dictionary) — AI demystification dictionary (1327 terms)
-- [Wanderer Picks](https://github.com/gengyueworks/wanderer-picks) — Travel-themed reading picks
-- [Tech Picks](https://github.com/gengyueworks/tech-picks) — Tech-themed reading picks
-- [Eat The Good Stuff](https://github.com/gengyueworks/eat-the-good-stuff) — "Nourishing reads" picks
-- 🔒 [Curation Standards](https://github.com/gengyueworks/curation-standards) — Information-selection standards (CC0)
+|  |  |  |
+|---|---|---|
+| [AI News](https://github.com/gengyueworks/ai-news)<br>Daily AI news digest | [AI Dictionary](https://github.com/gengyueworks/ai-dictionary)<br>1327 AI terms | [Wanderer Picks](https://github.com/gengyueworks/wanderer-picks)<br>Travel reading picks |
+| [Tech Picks](https://github.com/gengyueworks/tech-picks)<br>Tech reading picks | [Eat The Good Stuff](https://github.com/gengyueworks/eat-the-good-stuff)<br>Nourishing reads | 🔒 [Curation Standards](https://github.com/gengyueworks/curation-standards)<br>Selection standards |
 
 ## ⑤ Daily Calendars · auto-updated
 
-- [One Artist A Day](https://github.com/gengyueworks/one-artist-a-day) — One artist a day · art-history calendar
-- [One Scientist A Day](https://github.com/gengyueworks/one-scientist-a-day) — One scientist a day · 365-day calendar
-- [Daily Stoic](https://github.com/gengyueworks/daily-stoic) — Daily Stoic passage + reading + today's action
+|  |  |  |
+|---|---|---|
+| [One Artist A Day](https://github.com/gengyueworks/one-artist-a-day)<br>Art-history calendar | [One Scientist A Day](https://github.com/gengyueworks/one-scientist-a-day)<br>365-day science calendar | [Daily Stoic](https://github.com/gengyueworks/daily-stoic)<br>Stoic passage + action |
 
 ## ⑥ Courses
 
-- [Yue Reading](https://github.com/gengyueworks/Yue-Reading) — Reading course for the AI age
-- [Invest Masters](https://github.com/gengyueworks/invest-masters) — Investor's wisdom library (public preview)
-- [AI Course](https://github.com/gengyueworks/ai-course) · [AI Liberal Arts Camp](https://github.com/gengyueworks/ai-liberal-arts-camp) · [Agent Course](https://github.com/gengyueworks/agent-course) · [Obsidian Course](https://github.com/gengyueworks/obsidian-course) — AI & tools (framework previews)
-- 🔒 [Love Yourself Course](https://github.com/gengyueworks/love-yourself-course) · [Exercise Course](https://github.com/gengyueworks/exercise-course) · [Sugar Free Course](https://github.com/gengyueworks/sugar-free-course) · [AI Writing Course](https://github.com/gengyueworks/ai-writing-course) · [The Masters](https://github.com/gengyueworks/the-masters)
+|  |  |  |
+|---|---|---|
+| [Yue Reading](https://github.com/gengyueworks/Yue-Reading)<br>Reading course | [Invest Masters](https://github.com/gengyueworks/invest-masters)<br>Investor wisdom library | [AI Course](https://github.com/gengyueworks/ai-course)<br>AI & tools preview |
+| [AI Liberal Arts Camp](https://github.com/gengyueworks/ai-liberal-arts-camp)<br>Liberal arts camp | [Agent Course](https://github.com/gengyueworks/agent-course)<br>Agent course | [Obsidian Course](https://github.com/gengyueworks/obsidian-course)<br>Obsidian course |
+
+🔒 [Love Yourself Course](https://github.com/gengyueworks/love-yourself-course) · [Exercise Course](https://github.com/gengyueworks/exercise-course) · [Sugar Free Course](https://github.com/gengyueworks/sugar-free-course) · [AI Writing Course](https://github.com/gengyueworks/ai-writing-course) · [The Masters](https://github.com/gengyueworks/the-masters)
 
 ## ⑦ Time Series 🔒
 
