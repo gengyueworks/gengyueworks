@@ -67,6 +67,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 - [One Artist A Day](https://github.com/gengyueworks/one-artist-a-day) — Art-history journey
 - [One Scientist A Day](https://github.com/gengyueworks/one-scientist-a-day) — 365-day science calendar
 - [Daily Stoic](https://github.com/gengyueworks/daily-stoic) — A Stoic passage + one small action
+- 🔒 [Science 3000](https://github.com/gengyueworks/science-3000-industrial) — Industrial timeline
 
 ## ⑦ Courses
 
@@ -101,7 +102,6 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 - [Loneliest Places](https://github.com/gengyueworks/loneliest-places-on-earth) — The loneliest places on Earth
 - [Filming Locations](https://github.com/gengyueworks/cinematic-travel-locations) — Famous film shooting locations
 - 🔒 [Non-Coder Builders](https://github.com/gengyueworks/non-coder-builders) — Makers who ship without code
-- [Science 3000](https://github.com/gengyueworks/science-3000-industrial) — Industrial & hard-tech collection
 - [World Wilderness Parks](https://github.com/gengyueworks/world-wilderness-parks) — Wilderness parks of the world
 - [NASA Retro Posters](https://github.com/gengyueworks/nasa-retro-space-posters) — NASA retro space posters
 
