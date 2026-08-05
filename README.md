@@ -29,7 +29,6 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 - [ZXMOTO Stories](https://github.com/gengyueworks/ZXMOTO-Stories) — China motorcycle manufacturing reporting
 - 🔒 [The Music](https://github.com/gengyueworks/The-Music) — Classical music & music essays
 - 🔒 [Me & AI](https://github.com/gengyueworks/me-and-ai) — Dialogues with AI
-- 🔒 [Poetry Translation](https://github.com/gengyueworks/xu-yuanchong-poetry) — Poetry EN translation
 
 ## ② Human Series 🔒
 
@@ -110,6 +109,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 
 - [Yuanquan Progress](https://github.com/gengyueworks/yuanquan-progress) — Progress tracker · [Work Log](https://github.com/gengyueworks/work-log) — Daily log
 - [Yue Reading Books](https://github.com/gengyueworks/Yue-Reading-Books) — Yue reading shelf
+- [Poetry Translation](https://github.com/gengyueworks/xu-yuanchong-poetry) — Poetry EN translation
 - [Portfolio Site](https://github.com/gengyueworks/yue-portfolio-site) · [About Me](https://github.com/gengyueworks/About-Me)
 
 ---
