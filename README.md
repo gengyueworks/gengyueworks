@@ -108,7 +108,7 @@ Travel stories, essays, reading courses, creator series, AI courses — this is 
 ## ⑫ Private · Personal Infrastructure 🔒
 
 - [Yuanquan Progress](https://github.com/gengyueworks/yuanquan-progress) — Progress tracker · [Work Log](https://github.com/gengyueworks/work-log) — Daily log
-- [Yue Reading Books](https://github.com/gengyueworks/Yue-Reading-Books) — Yue reading shelf
+- [Yue Reading Books](https://github.com/gengyueworks/Yue-Reading-Books) — Yue reading shelf · 4119 WeRead books
 - [Poetry Translation](https://github.com/gengyueworks/xu-yuanchong-poetry) — Poetry EN translation
 - [Portfolio Site](https://github.com/gengyueworks/yue-portfolio-site) · [About Me](https://github.com/gengyueworks/About-Me)
 
