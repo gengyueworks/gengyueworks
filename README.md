@@ -5,9 +5,12 @@
 <h1 align="center">Yue · gengyueworks 👋</h1>
 <p align="center">Writer / Traveler / Creator · Brand storytelling through feature writing</p>
 
-Ten thousand miles walked, ten thousand books read.
-Life is what you live, moment by moment.
-A doer, a practitioner, a lifelong learner — chiseling myself into a work of art. Unfinished, on purpose.
+<p align="center">
+  Ten thousand miles walked, ten thousand books read.<br>
+  Life is what you live, moment by moment.<br>
+  A doer, a practitioner, a lifelong learner — chiseling myself into a work of art.<br>
+  <em>Unfinished, on purpose.</em>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/84-repos-0366B5?style=flat-square"/>
