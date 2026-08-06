@@ -5,8 +5,9 @@
 <h1 align="center">Yue · gengyueworks 👋</h1>
 <p align="center">Writer / Traveler / Creator · Brand storytelling through feature writing</p>
 
-Walk ten thousand miles, read ten thousand books. Life is measured in experience.
-A doer, a practitioner, a lifelong learner — carving myself into a work of art.
+Ten thousand miles walked, ten thousand books read.
+Life is what you live, moment by moment.
+A doer, a practitioner, a lifelong learner — chiseling myself into a work of art. Unfinished, on purpose.
 
 <p align="center">
   <img src="https://img.shields.io/badge/84-repos-0366B5?style=flat-square"/>
