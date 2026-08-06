@@ -6,8 +6,7 @@
 <p align="center">Writer / Traveler / Creator · Brand storytelling through feature writing</p>
 
 <p align="center">
-  Ten thousand miles walked, ten thousand books read.<br>
-  Life is what you live, moment by moment.<br>
+  Ten thousand miles walked, ten thousand books read, life lived moment by moment.<br>
   A doer, a practitioner, a lifelong learner — chiseling myself into a work of art.<br>
   <em>Unfinished, on purpose.</em>
 </p>
