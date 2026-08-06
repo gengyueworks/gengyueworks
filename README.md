@@ -5,7 +5,7 @@
 <h1 align="center">Yue · gengyueworks 👋</h1>
 <p align="center">Writer / Traveler / Creator · Brand storytelling through feature writing</p>
 
-Travel stories, essays, reading courses, creator series, AI courses — this is my talent to flow in the universe.
+行万里路，读万卷书，人生重在体验。实干、践行、终身学习者。把自己雕刻成艺术品。
 
 <p align="center">
   <img src="https://img.shields.io/badge/84-repos-0366B5?style=flat-square"/>
