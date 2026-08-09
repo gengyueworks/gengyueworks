@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/84-repos-0366B5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/35-public-2ea44f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/49-private-8b949e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/102-repos-0366B5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/38-public-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/64-private-8b949e?style=flat-square"/>
 </p>
 
 <p align="center">
