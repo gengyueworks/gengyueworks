@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/102-repos-0366B5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/38-public-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/106-repos-0366B5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/42-public-2ea44f?style=flat-square"/>
   <img src="https://img.shields.io/badge/64-private-8b949e?style=flat-square"/>
 </p>
 
@@ -82,6 +82,11 @@
 - [Yue Reading](https://github.com/gengyueworks/Yue-Reading) — Reading training for the AI age
 - 🌟 🔒 [Creativity Flow Bible](https://github.com/gengyueworks/creativity-flow-bible) — Creative methodology
 
+#### Language & Interviews
+
+- [Interview Question Bank](https://github.com/gengyueworks/interview-question-bank) — 12 core English interview Q&As + STAR breakdown (bilingual)
+- [IELTS Speaking Bank](https://github.com/gengyueworks/ielts-speaking-bank) — IELTS speaking topics × 6 themes with sample answers
+
 ## ⑧ Time Series 🔒
 
 [Human Time](https://github.com/gengyueworks/human-time) · [Human Time Text](https://github.com/gengyueworks/human-time-text) — Manuscript edition · [Time Bill](https://github.com/gengyueworks/time-bill) — Time tracking · [Time Course](https://github.com/gengyueworks/time-course) — Time management · [Only One](https://github.com/gengyueworks/only-one) — Time-boxing focus tool
@@ -91,10 +96,16 @@
 - 🔒 [Investing Booklist](https://github.com/gengyueworks/investing-booklist) — 239 books
 - 🔒 [Financial Reports Shelf](https://github.com/gengyueworks/financial-reports-shelf) — Fund top-holdings database
 - 🔒 [Fund Investment Analysis](https://github.com/gengyueworks/fund-investment-analysis) — Fund analysis
+- [Business Model Forensics](https://github.com/gengyueworks/business-model-forensics) — How great companies think through a business (bilingual)
 
-## ⑩ Methodology & Skills 🔒
+## ⑩ Methodology & Skills
 
-[Skills](https://github.com/gengyueworks/skills) — AI Skills collection · [Perkins Editor Skill](https://github.com/gengyueworks/perkins-editor-skill) — Diagnostic & polishing system · [Casey Neistat Knowledge](https://github.com/gengyueworks/casey-neistat-knowledge) · [Writing Verification Method](https://github.com/gengyueworks/writing-verification-method) · [Socratopia Learning](https://github.com/gengyueworks/socratopia-learning-engineering) — Socratic learning engineering · [Declutter Letters](https://github.com/gengyueworks/declutter-letters) — Core offering
+[Skills](https://github.com/gengyueworks/skills) — AI Skills collection · [Perkins Editor Skill](https://github.com/gengyueworks/perkins-editor-skill) — Diagnostic & polishing system · [Casey Neistat Knowledge](https://github.com/gengyueworks/casey-neistat-knowledge) · [Writing Verification Method](https://github.com/gengyueworks/writing-verification-method) · [Socratopia Learning](https://github.com/gengyueworks/socratopia-learning-engineering) — Socratic learning engineering · [Declutter Letters](https://github.com/gengyueworks/declutter-letters) — Core offering · [File Organizing Methods](https://github.com/gengyueworks/file-organizing-methods) — PARA × Dewey fusion
+
+### AI Tools & Handbooks
+
+- 🌟 [Codex Playbook](https://github.com/gengyueworks/codex-playbook) — A non-programmer's Codex field manual: workflows, templates, real cases (中英双语)
+- [Xi Shen](https://github.com/gengyueworks/xishen) — 八字暖读：从你的八字里挖出亮点 (Bazi warm reading skill, bilingual)
 
 ## ⑪ Curated Lists
 
@@ -108,6 +119,8 @@
 - 🔒 [Non-Coder Builders](https://github.com/gengyueworks/non-coder-builders) — Makers who ship without code
 - [World Wilderness Parks](https://github.com/gengyueworks/world-wilderness-parks) — Wilderness parks of the world
 - [NASA Retro Posters](https://github.com/gengyueworks/nasa-retro-space-posters) — NASA retro space posters
+- [Magazine Picks](https://github.com/gengyueworks/magazine-picks) — Curated magazine selections
+- [Public Domain Image Resources](https://github.com/gengyueworks/public-domain-image-resources) — Free image sources for writers & designers
 
 ## ⑫ Private · Personal Infrastructure 🔒
 
