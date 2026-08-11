@@ -23,6 +23,10 @@
 
 ---
 
+## 🌟 Featured
+
+- [AI Timeline](https://github.com/gengyueworks/ai-timeline) — Bilingual chronology of AI history, 116 milestones from 1936 to today · source-backed, CI-validated, live site
+
 ## ① Writing · Columns & Stories
 
 - [Travel Stories](https://github.com/gengyueworks/Travel-Stories) — Original stories & photography from years on the road
@@ -86,6 +90,7 @@
 
 - [Interview Question Bank](https://github.com/gengyueworks/interview-question-bank) — 12 core English interview Q&As + STAR breakdown (bilingual)
 - [IELTS Speaking Bank](https://github.com/gengyueworks/ielts-speaking-bank) — IELTS speaking topics × 6 themes with sample answers
+- [Oral Scenes Bank](https://github.com/gengyueworks/oral-scenes-bank) — 30 bilingual everyday-scene templates, open-and-read aloud
 
 ## ⑧ Time Series 🔒
 
