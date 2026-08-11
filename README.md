@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/106-repos-0366B5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/42-public-2ea44f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/64-private-8b949e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/111-repos-0366B5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/44-public-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/67-private-8b949e?style=flat-square"/>
 </p>
 
 <p align="center">
@@ -134,12 +134,8 @@
 ## 📡 Connect
 
 <p align="center">
-  <a href="https://x.com/your_handle"><img src="https://img.shields.io/badge/-X-181717?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.xiaohongshu.com/user/profile/your_id"><img src="https://img.shields.io/badge/-RED-181717?style=flat-square" alt="RED"/></a>
-  <a href="https://your-newsletter.com"><img src="https://img.shields.io/badge/-Newsletter-181717?style=flat-square&logo=mailchimp&logoColor=white" alt="Newsletter"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logo=wordpress&logoColor=white" alt="Blog"/></a>
-  <a href="https://github.com/gengyueworks"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.zhihu.com/people/xi-xi-28">知乎</a> ·
+  <a href="https://www.xiaohongshu.com/user/profile/55568757c2bdeb0e6658e02d">小红书</a> ·
+  <a href="mailto:gengyue.me@gmail.com">邮箱</a> ·
+  <a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=JUSTGO">公众号：JUSTGO</a>
 </p>
-
-<!-- Replace your_handle / your_id / your-newsletter / you@example.com / your-blog above with your real accounts, then delete this comment -->
