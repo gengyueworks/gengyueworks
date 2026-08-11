@@ -90,7 +90,6 @@
 
 - [Interview Question Bank](https://github.com/gengyueworks/interview-question-bank) — 12 core English interview Q&As + STAR breakdown (bilingual)
 - [IELTS Speaking Bank](https://github.com/gengyueworks/ielts-speaking-bank) — IELTS speaking topics × 6 themes with sample answers
-- [Oral Scenes Bank](https://github.com/gengyueworks/oral-scenes-bank) — 30 bilingual everyday-scene templates, open-and-read aloud
 
 ## ⑧ Time Series 🔒
 
