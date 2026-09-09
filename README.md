@@ -8,14 +8,6 @@
   <em>Unfinished, on purpose.</em>
 </p>
 
-<p align="center">
-  <a href="https://x.com/yuereads">X @yuereads</a> ·
-  <a href="https://www.zhihu.com/people/xi-xi-28">知乎</a> ·
-  <a href="https://www.xiaohongshu.com/user/profile/55568757c2bdeb0e6658e02d">小红书</a> ·
-  <a href="mailto:gengyue.me@gmail.com">邮箱</a> ·
-  <a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=JUSTGO">公众号：JUSTGO</a>
-</p>
-
 ---
 
 ### Writing · Columns & Stories
@@ -42,3 +34,15 @@
 - [Gym Exercise Guide](https://github.com/gengyueworks/gym-exercise-guide) — 873 个动作中英双语图解库
 - [Awesome Habits](https://github.com/gengyueworks/awesome-habits) — 习惯科学权威书单与核心方法论
 - [Awesome Indie Press](https://github.com/gengyueworks/awesome-indie-press) — 全球独立杂志与先锋出版机构精选
+
+---
+
+## 📡 Connect
+
+<p align="center">
+  <a href="https://x.com/yuereads">X @yuereads</a> ·
+  <a href="https://www.zhihu.com/people/xi-xi-28">知乎</a> ·
+  <a href="https://www.xiaohongshu.com/user/profile/55568757c2bdeb0e6658e02d">小红书</a> ·
+  <a href="mailto:gengyue.me@gmail.com">邮箱</a> ·
+  <a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=JUSTGO">公众号：JUSTGO</a>
+</p>
